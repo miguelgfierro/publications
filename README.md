@@ -1,2 +1,1 @@
-# publications
-Scientific publications
+Scientific publications from my PhD

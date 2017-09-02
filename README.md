@@ -2,6 +2,8 @@
 
 In this repo you will find some of the publications that I have done during my career.
 
+*NOTE: This document is automatically generated converting the publication information in bibtex format and pandoc. To see how I did it take a look at [this guide](bibtex/README.md).*
+
 ## Conferences
 
 \[1\] M. González-Fierro, C. A. Monje, and C. Balaguer, “Robust Control Of A Reduced Humanoid Robot Model Using Genetic Algorithms And Fractional Calculus,” in *Mathematical Methods In Engineering International Conference Mme2013*, 2013, pp. 183–194. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2013robust.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2013robust.pdf</a>

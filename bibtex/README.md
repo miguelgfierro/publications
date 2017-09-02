@@ -1,6 +1,18 @@
 # Markdown generation using bibtex
 
+This guide explains how to transform a bibtex file into markdown using a style file.
+
+## Requirements
+
+We are going to need pandoc to transform between formats, a bibtex file with the information of the publications and [citation style language file](http://citationstyles.org/). 
+
 The first step is to [install pandoc](http://pandoc.org/installing.html).
+
+You need your cites in bibtex format. [Here](gonzalez-fierro2014thesis.bib) you have an example.
+
+Finally, you need a csl file. In [this repo](https://github.com/citation-style-language/styles) you will find a huge number of formats. In my case, I used a modification of the IEEE style: `ieee-with-url-mod.csl`.
+
+## File generation
 
 To generate the markdown of the citations I use the template `citation_template.md` and a csl file. To generate the citation for the conferences:
 

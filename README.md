@@ -1,10 +1,15 @@
-### Research publications 
+# Publications
 
-In this repo you will find all the publications that I did during my career. All the entries are in bibtex format.
+In this repo you will find all the publications that I have done during my career.
 
-* List of [journal](journals) papers.
-* List of [conference](conferences) papers.
-* Bibtex of my [PhD Thesis](gonzalez-fierro2014thesis.bib).
-* Bibtex of all scientific [publications](gonzalez-fierro_complete_publications.bib)
+## Conferences
+
+
+## Scientific Journals
+
+
+## Thesis
+
+\[1\] M. González-Fierro, “Humanoid Robot Control Of Complex Postural Tasks Based On Learning From Demonstrations,” *PhD thesis*, Universidad C. III de Madrid, 2014. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf</a>
 
 More information can be found in my personal page at [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/people/m-gonzalez-fierro) research group from Universidad Carlos III de Madrid and [ThrishLab](http://thrish.org/additional-researchers/miguel-gonzalez-fierro) research group from King's College London.

@@ -145,8 +145,8 @@
           <if variable="container-title">
             <group delimiter=", ">
               <group delimiter=" ">
-                <text term="in"/>
-                <text variable="container-title" font-style="italic"/>
+                <text term="in" text-case="lowercase"/>
+                <text variable="container-title" font-style="italic" text-case="capitalize-all"/>
               </group>
               <text variable="event-place"/>
             </group>
@@ -239,7 +239,7 @@
           <else-if type="paper-conference">
             <group delimiter=", ">
               <text macro="title" text-case="capitalize-first"/>
-              <text macro="event" text-case="capitalize-first"/>
+              <text macro="event"/>
               <text macro="issued"/>
               <text macro="locators"/>
               <text macro="page"/>
@@ -291,7 +291,7 @@
           <else-if type="article-magazine article-newspaper broadcast interview manuscript map patent personal_communication song speech thesis webpage" match="any">
             <group delimiter=", ">
               <text macro="title" text-case="capitalize-first"/>
-              <text variable="container-title" font-style="italic" text-case="capitalize-first"/>
+              <text variable="container-title" font-style="italic"/>
               <text macro="locators"/>
               <text macro="publisher"/>
               <text macro="page"/>
@@ -303,7 +303,7 @@
               <text macro="title" text-case="capitalize-first"/>
               <group delimiter=" ">
                 <text term="in"/>
-                <text variable="container-title" font-style="italic"  text-case="capitalize-first"/>
+                <text variable="container-title" font-style="italic"/>
               </group>
               <text macro="locators"/>
             </group>
@@ -317,7 +317,7 @@
           <else>
             <group delimiter=", " suffix=". ">
               <text macro="title"/>
-              <text variable="container-title" font-style="italic"  text-case="capitalize-first"/>
+              <text variable="container-title" font-style="italic"/>
               <text macro="locators"/>
             </group>
             <group delimiter=", ">

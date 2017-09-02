@@ -2,7 +2,7 @@
 
 In this repo you will find some of the publications that I have done during my career.
 
-*NOTE: This document is automatically generated converting the publication information in bibtex format and pandoc. To see how I did it take a look at [this guide](bibtex/README.md).*
+*NOTE: This document is automatically generated. I use pandoc to convert the publications in bibtex format. To see how I did it, take a look at [this guide](bibtex/README.md).*
 
 ## Conferences
 

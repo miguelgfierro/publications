@@ -77,6 +77,19 @@ In this repo you will find some of the publications that I have done during my c
 
 ## Thesis
 
-\[1\] M. González-Fierro, “Humanoid Robot Control Of Complex Postural Tasks Based On Learning From Demonstrations,” *PhD thesis*, Universidad C. III de Madrid, 2014. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf</a>
+* M. González-Fierro, “Humanoid Robot Control Of Complex Postural Tasks Based On Learning From Demonstrations,” *PhD thesis*, Universidad C. III de Madrid, 2014. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf</a>
 
 More information can be found in my personal page at [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/people/m-gonzalez-fierro) research group from Universidad Carlos III de Madrid and [ThrishLab](http://thrish.org/additional-researchers/miguel-gonzalez-fierro) research group from King's College London.
+
+## Blog posts
+
+I have my [personal blog](https://miguelgfierro.com) where I write about artificial intelligence, machine learning, technical business and other random stuff that comes to my mind. The blog has been designed to mimic the appearance of a scientific paper. I did it that way to honor my scientific background. The code is open sourced and can be found in [this repo](https://github.com/miguelgfierro/sciblog).
+
+Here there are some posts that attracted attention:
+
+* [A Gentle Introduction to the Basics of Machine Learning](https://miguelgfierro.com/blog/2016/a-gentle-introduction-to-the-basics-of-machine-learning/).
+* [A Gentle Introduction to Text Classification and Sentiment Analysis](https://miguelgfierro.com/blog/2017/a-gentle-introduction-to-text-classification-and-sentiment-analysis/).
+* [How to Develop a Data Science Project using the Lean Startup Method](https://miguelgfierro.com/blog/2016/how-to-develop-a-data-science-project-using-the-lean-startup-method/).
+
+I also contributed to other blog posts:
+

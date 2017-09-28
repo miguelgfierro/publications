@@ -4,6 +4,9 @@ In this repo you will find some of the publications that I have done during my c
 
 *NOTE: This document is automatically generated. I use pandoc to convert the publications in bibtex format. To see how I did it, take a look at [this guide](bibtex/README.md).*
 
+More information about my scientific career can be found in my personal page at [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/people/m-gonzalez-fierro) research group from Universidad Carlos III de Madrid and [ThrishLab](http://thrish.org/additional-researchers/miguel-gonzalez-fierro) research group from King's College London (now at Imperial College).
+
+
 ## Conferences
 
 \[1\] M. González-Fierro, “Deep Learning For Sales Professionals,” in *Intelligent Cloud GBB Ready Lisbon*, 2017. Available online: <a href="https://www.slideshare.net/MiguelFierro1/deep-learning-for-sales-professionals" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/deep-learning-for-sales-professionals</a>
@@ -79,9 +82,10 @@ In this repo you will find some of the publications that I have done during my c
 
 ## Thesis
 
-* M. González-Fierro, “Humanoid Robot Control Of Complex Postural Tasks Based On Learning From Demonstrations,” *PhD thesis*, Universidad C. III de Madrid, 2014. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf</a>
+\[1\] M. González-Fierro, “Humanoid Robot Control Of Complex Postural Tasks Based On Learning From Demonstrations,” *PhD thesis*, Universidad Carlos III de Madrid, 2014. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf</a>
 
-More information can be found in my personal page at [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/people/m-gonzalez-fierro) research group from Universidad Carlos III de Madrid and [ThrishLab](http://thrish.org/additional-researchers/miguel-gonzalez-fierro) research group from King's College London (now at Imperial College).
+\[2\] M. González-Fierro, “Dynamic Modeling Of Humanoid Robots Through Spatial Algebra (in Spanish),” *Master’s thesis*, Universidad Carlos III de Madrid, 2009. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2009master.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2009master.pdf</a>
+
 
 ## Blog posts
 

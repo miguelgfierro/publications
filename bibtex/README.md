@@ -26,7 +26,7 @@ To generate the citation for the journals:
 
 To generate the citation for the thesis:
 
-    pandoc -s -S --bibliography gonzalez-fierro2014thesis.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
+    pandoc -s -S --bibliography gonzalez-fierro_thesis.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
     pandoc --from html --to markdown_github publications.html -o publications.md
 
 

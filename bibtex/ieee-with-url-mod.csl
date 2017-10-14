@@ -47,6 +47,9 @@
       <term name="chapter" form="short">ch.</term>
       <term name="presented at">presented at the</term>
       <term name="available at">available online</term>
+      <term name="in">in</term>
+      <term name="open-quote">"</term>
+      <term name="close-quote">"</term>
     </terms>
   </locale>
   <!-- Macros -->
@@ -249,7 +252,7 @@
           </if>
           <else-if type="paper-conference">
             <group delimiter=", ">
-              <text macro="title" text-case="capitalize-first"/>
+              <text macro="title" text-case="title"/>
               <text macro="event"/>
               <text macro="issued"/>
               <text macro="locators"/>

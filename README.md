@@ -71,15 +71,15 @@ More information about my scientific career can be found in my personal page at 
 
 ## Scientific Journals
 
-\[1\] M. González-Fierro, C. Monje, and C. Balaguer, “Fractional Control Of A Humanoid Robot Reduced Model With Model Disturbances,” *Journal of Cybernetics and Systems*, vol. 47, no. 6, pp. 445–459, 2016. Available online: <a href="http://www.tandfonline.com/doi/abs/10.1080/01969722.2016.1187031" class="uri" class="uri">http://www.tandfonline.com/doi/abs/10.1080/01969722.2016.1187031</a>
+\[1\] M. González-Fierro, C. Monje, y C. Balaguer, «Fractional Control of a Humanoid Robot Reduced Model with Model Disturbances», *Journal of Cybernetics and Systems*, vol. 47, n.º 6, pp. 445-459, 2016. Available online: <a href="http://www.tandfonline.com/doi/abs/10.1080/01969722.2016.1187031" class="uri" class="uri">http://www.tandfonline.com/doi/abs/10.1080/01969722.2016.1187031</a>
 
-\[2\] M. González-Fierro, D. Hernández, T. Nanayakkara, and C. Balaguer, “Behavior Sequencing Based On Demonstrations - A Case Of A Humanoid Opening A Door While Walking,” *Advanced Robotics*, vol. 29, no. 5, pp. 315–329, 2015. Available online: <a href="http://dx.doi.org/10.1080/01691864.2014.992955" class="uri" class="uri">http://dx.doi.org/10.1080/01691864.2014.992955</a>
+\[2\] M. González-Fierro, D. Hernández, T. Nanayakkara, y C. Balaguer, «Behavior Sequencing Based on Demonstrations - a Case of a Humanoid Opening a Door While Walking», *Advanced Robotics*, vol. 29, n.º 5, pp. 315-329, 2015. Available online: <a href="http://dx.doi.org/10.1080/01691864.2014.992955" class="uri" class="uri">http://dx.doi.org/10.1080/01691864.2014.992955</a>
 
-\[3\] M. González-Fierro, C. Balaguer, N. Swann, and T. Nanayakkara, “Full-Body Postural Control Of A Humanoid Robot With Both Imitation Learning And Skill Innovation,” *International Journal of Humanoid Robotics*, vol. 11, no. 2, p. 1450012, 2014. Available online: <a href="http://dx.doi.org/10.1142/S0219843614500121" class="uri" class="uri">http://dx.doi.org/10.1142/S0219843614500121</a>
+\[3\] M. González-Fierro, C. Balaguer, N. Swann, y T. Nanayakkara, «Full-Body Postural Control of a Humanoid Robot with Both Imitation Learning and Skill Innovation», *International Journal of Humanoid Robotics*, vol. 11, n.º 2, p. 1450012, 2014. Available online: <a href="http://dx.doi.org/10.1142/S0219843614500121" class="uri" class="uri">http://dx.doi.org/10.1142/S0219843614500121</a>
 
-\[4\] J. G. Bueno, M. González-Fierro, L. Moreno, and C. Balaguer, “Facial Emotion Recognition And Adaptative Postural Reaction By A Humanoid Based On Neural Evolution,” *International Journal of Advanced Computer Science*, vol. 3, no. 10, pp. 481–493, 2013. Available online: <a href="http://miguelgfierro.com/docs/bueno2013facial.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/bueno2013facial.pdf</a>
+\[4\] J. G. Bueno, M. González-Fierro, L. Moreno, y C. Balaguer, «Facial Emotion Recognition and Adaptative Postural Reaction by a Humanoid based on Neural Evolution», *International Journal of Advanced Computer Science*, vol. 3, n.º 10, pp. 481-493, 2013. Available online: <a href="http://miguelgfierro.com/docs/bueno2013facial.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/bueno2013facial.pdf</a>
 
-\[5\] C. A. Monje, P. Pierro, T. Ramos, M. González-Fierro, and C. Balaguer, “Modeling And Simulation Of The Humanoid Robot Hoap-3 In The Openhrp3 Platform,” *Cybernetics and Systems*, vol. 44, no. 8, pp. 663–680, 2013. Available online: <a href="http://dx.doi.org/10.1080/01969722.2013.832095" class="uri" class="uri">http://dx.doi.org/10.1080/01969722.2013.832095</a>
+\[5\] C. A. Monje, P. Pierro, T. Ramos, M. González-Fierro, y C. Balaguer, «Modeling and Simulation of the Humanoid Robot HOAP-3 in the OpenHRP3 Platform», *Cybernetics and Systems*, vol. 44, n.º 8, pp. 663-680, 2013. Available online: <a href="http://dx.doi.org/10.1080/01969722.2013.832095" class="uri" class="uri">http://dx.doi.org/10.1080/01969722.2013.832095</a>
 
 ## Thesis
 

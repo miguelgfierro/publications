@@ -274,7 +274,8 @@
           <else-if type="thesis"> <!-- for tags @PhDThesis and @MastersThesis -->
             <group delimiter=", ">
               <text macro="title" text-case="title"/>
-              <text variable="genre" font-style="italic"/>
+              <!--<text variable="genre" font-style="italic"/>--> <!-- Can't change the default text -->
+              <text variable="note" font-style="italic" text-case="title"/> <!--workaround: put note in bibtex as Master's Thesis or PhD Thesis -->
               <text macro="publisher"/>
               <text macro="issued"/>
             </group>

@@ -85,11 +85,11 @@ More information about my scientific career can be found in my personal page at 
 
 ## Thesis
 
-\[1\] M. González-Fierro, “Humanoid Robot Control Of Complex Postural Tasks Based On Learning From Demonstrations,” *PhD thesis*, Universidad Carlos III de Madrid, 2014. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf</a>
+\[1\] M. González-Fierro, "Humanoid Robot Control of Complex Postural Tasks Based on Learning From Demonstrations", *Ph.D. Thesis*, Universidad Carlos III de Madrid, 2014. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf</a>
 
-\[2\] M. González-Fierro, “Dynamic Modeling Of Humanoid Robots Through Spatial Algebra (In Spanish),” *Master’s thesis*, Universidad Carlos III de Madrid, 2009. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2009master.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2009master.pdf</a>
+\[2\] M. González-Fierro, "Dynamic Modeling of Humanoid Robots through Spatial Algebra (in Spanish)", *Master’s Thesis*, Universidad Carlos III de Madrid, 2009. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2009master.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2009master.pdf</a>
 
-\[3\] M. González-Fierro, “Realización De Tareas Colaborativas En Robonova Usando FSRs,” *Master’s thesis*, Universidad Carlos III de Madrid, 2008.
+\[3\] M. González-Fierro, "Realización de Tareas Colaborativas en Robonova usando FSRs", *Master’s Thesis*, Universidad Carlos III de Madrid, 2008.
 
 
 ## Blog posts

@@ -241,7 +241,7 @@
       <group suffix=". ">
         <choose>
           <!-- Specific Formats -->
-          <if type="article-journal">
+          <if type="article-journal"><!-- for bib tag @article -->
             <group delimiter=", ">
               <text macro="title" text-case="title"/>
               <text variable="container-title" font-style="italic" form="short" text-case="title"/>
@@ -250,10 +250,10 @@
               <text macro="issued"/>
             </group>
           </if>
-          <else-if type="paper-conference">
+          <else-if type="paper-conference"><!-- for tag @InProceedings -->
             <group delimiter=", ">
               <text macro="title" text-case="title"/>
-              <text macro="event"/>
+              <text variable="container-title" font-style="italic" form="short" text-case="title"/>
               <text macro="issued"/>
               <text macro="locators"/>
               <text macro="page"/>
@@ -261,7 +261,7 @@
           </else-if>
           <else-if type="report">
             <group delimiter=", ">
-              <text macro="title" text-case="capitalize-first"/>
+              <text macro="title" text-case="title"/>
               <text macro="publisher"/>
               <group delimiter=" ">
                 <text variable="genre"/>
@@ -272,7 +272,7 @@
           </else-if>
           <else-if type="thesis">
             <group delimiter=", ">
-              <text macro="title" text-case="capitalize-first"/>
+              <text macro="title" text-case="title"/>
               <text variable="genre" font-style="italic"/>
               <text macro="publisher"/>
               <text macro="issued"/>
@@ -286,14 +286,14 @@
             </group>
           </else-if>
           <else-if type="patent">
-            <text macro="title" suffix=", " text-case="capitalize-first"/>
+            <text macro="title" suffix=", " text-case="title"/>
             <text variable="number"/>
             <text macro="issued"/>
           </else-if>
           <!-- Generic/Fallback Formats -->
           <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
             <group delimiter=", " suffix=". ">
-              <text macro="title" text-case="capitalize-first"/>
+              <text macro="title" text-case="title"/>
               <text macro="locators"/>
             </group>
             <group delimiter=", ">
@@ -304,8 +304,8 @@
           </else-if>
           <else-if type="article-magazine article-newspaper broadcast interview manuscript map patent personal_communication song speech thesis webpage" match="any">
             <group delimiter=", ">
-              <text macro="title" text-case="capitalize-first"/>
-              <text variable="container-title" font-style="italic"/>
+              <text macro="title" text-case="title"/>
+              <text variable="container-title" font-style="italic" text-case="title"/>
               <text macro="locators"/>
               <text macro="publisher"/>
               <text macro="page"/>
@@ -314,10 +314,10 @@
           </else-if>
           <else-if type="chapter paper-conference" match="any">
             <group delimiter=", " suffix=", ">
-              <text macro="title" text-case="capitalize-first"/>
+              <text macro="title" text-case="title"/>
               <group delimiter=" ">
                 <text term="in"/>
-                <text variable="container-title" font-style="italic"/>
+                <text variable="container-title" font-style="italic" text-case="title"/>
               </group>
               <text macro="locators"/>
             </group>

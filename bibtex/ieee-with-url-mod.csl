@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" default-locale="es-ES" version="1.0" demote-non-dropping-particle="sort-only">
   <info>
     <title>IEEE (with URL)</title>
     <id>http://www.zotero.org/styles/ieee-with-url</id>
@@ -25,6 +25,10 @@
     <contributor>
       <name>Sebastian Karcher</name>
     </contributor>
+    <contributor>
+      <name>Miguel Gonzalez-Fierro</name>
+      <uri>https://miguelgfierro.com</uri>
+    </contributor>
     <category citation-format="numeric"/>
     <category field="engineering"/>
     <category field="generic-base"/>
@@ -36,6 +40,17 @@
       <term name="chapter" form="short">ch.</term>
       <term name="presented at">presented at the</term>
       <term name="available at">available online</term>
+    </terms>
+  </locale>
+  <locale xml:lang="es-ES">
+    <terms>
+      <term name="chapter" form="short">ch.</term>
+      <term name="presented at">presented at the</term>
+      <term name="available at">available online</term>
+      <term name="in">in</term>
+      <term name="open-quote">"</term>
+      <term name="close-quote">"</term>
+      <term name="and">and</term>
     </terms>
   </locale>
   <!-- Macros -->
@@ -227,19 +242,19 @@
       <group suffix=". ">
         <choose>
           <!-- Specific Formats -->
-          <if type="article-journal">
+          <if type="article-journal"><!-- for bib tag @article -->
             <group delimiter=", ">
-              <text macro="title" text-case="capitalize-first"/>
-              <text variable="container-title" font-style="italic" form="short" text-case="capitalize-first"/>
+              <text macro="title" text-case="title"/>
+              <text variable="container-title" font-style="italic" form="short" text-case="title"/>
               <text macro="locators"/>
               <text macro="page"/>
               <text macro="issued"/>
             </group>
           </if>
-          <else-if type="paper-conference">
+          <else-if type="paper-conference"><!-- for tag @InProceedings -->
             <group delimiter=", ">
-              <text macro="title" text-case="capitalize-first"/>
-              <text macro="event"/>
+              <text macro="title" text-case="title"/>
+              <text variable="container-title" font-style="italic" form="short" text-case="title"/>
               <text macro="issued"/>
               <text macro="locators"/>
               <text macro="page"/>
@@ -247,7 +262,7 @@
           </else-if>
           <else-if type="report">
             <group delimiter=", ">
-              <text macro="title" text-case="capitalize-first"/>
+              <text macro="title" text-case="title"/>
               <text macro="publisher"/>
               <group delimiter=" ">
                 <text variable="genre"/>
@@ -256,9 +271,9 @@
               <text macro="issued"/>
             </group>
           </else-if>
-          <else-if type="thesis">
+          <else-if type="thesis"> <!-- for tags @PhDThesis and @MastersThesis -->
             <group delimiter=", ">
-              <text macro="title" text-case="capitalize-first"/>
+              <text macro="title" text-case="title"/>
               <text variable="genre" font-style="italic"/>
               <text macro="publisher"/>
               <text macro="issued"/>
@@ -272,14 +287,14 @@
             </group>
           </else-if>
           <else-if type="patent">
-            <text macro="title" suffix=", " text-case="capitalize-first"/>
+            <text macro="title" suffix=", " text-case="title"/>
             <text variable="number"/>
             <text macro="issued"/>
           </else-if>
           <!-- Generic/Fallback Formats -->
           <else-if type="bill book graphic legal_case legislation motion_picture report song" match="any">
             <group delimiter=", " suffix=". ">
-              <text macro="title" text-case="capitalize-first"/>
+              <text macro="title" text-case="title"/>
               <text macro="locators"/>
             </group>
             <group delimiter=", ">
@@ -290,8 +305,8 @@
           </else-if>
           <else-if type="article-magazine article-newspaper broadcast interview manuscript map patent personal_communication song speech thesis webpage" match="any">
             <group delimiter=", ">
-              <text macro="title" text-case="capitalize-first"/>
-              <text variable="container-title" font-style="italic"/>
+              <text macro="title" text-case="title"/>
+              <text variable="container-title" font-style="italic" text-case="title"/>
               <text macro="locators"/>
               <text macro="publisher"/>
               <text macro="page"/>
@@ -300,10 +315,10 @@
           </else-if>
           <else-if type="chapter paper-conference" match="any">
             <group delimiter=", " suffix=", ">
-              <text macro="title" text-case="capitalize-first"/>
+              <text macro="title" text-case="title"/>
               <group delimiter=" ">
                 <text term="in"/>
-                <text variable="container-title" font-style="italic"/>
+                <text variable="container-title" font-style="italic" text-case="title"/>
               </group>
               <text macro="locators"/>
             </group>

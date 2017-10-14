@@ -50,6 +50,7 @@
       <term name="in">in</term>
       <term name="open-quote">"</term>
       <term name="close-quote">"</term>
+      <term name="and">and</term>
     </terms>
   </locale>
   <!-- Macros -->

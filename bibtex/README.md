@@ -6,7 +6,7 @@ This guide explains how to transform a bibtex file into markdown using a style f
 
 We are going to need pandoc to transform between formats, a bibtex file with the information of the publications and [citation style language file](http://citationstyles.org/). 
 
-The first step is to [install pandoc](http://pandoc.org/installing.html).
+The first step is to [install pandoc](http://pandoc.org/installing.html). The version I used is 1.19.2.1. The installation files for Linux, Mac and Windows can be found [here](https://github.com/jgm/pandoc/releases/tag/1.19.2.1).
 
 You need your cites in bibtex format. [Here](gonzalez-fierro2014thesis.bib) you have an example.
 

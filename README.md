@@ -96,7 +96,7 @@ More information about my scientific career can be found in my personal page at 
 
 \[2\] M. González-Fierro, "Dynamic Modeling of Humanoid Robots through Spatial Algebra (in Spanish)", *Master’s Thesis*, Universidad Carlos III de Madrid, 2009. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2009master.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2009master.pdf</a>
 
-\[3\] M. González-Fierro, "Realización de Tareas Colaborativas en Robonova usando FSRs", *Master’s Thesis*, Universidad Carlos III de Madrid, 2008.
+\[3\] M. González-Fierro, "Execution of Collaborative Tasks on Robonova using FSRs (in Spanish)", *Master’s Thesis*, Universidad Carlos III de Madrid, 2008.
 
 
 ## Blog posts

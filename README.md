@@ -1,8 +1,8 @@
 # Publications
 
-In this repo you will find some of the publications that I have done during my career.
+In this repo, you will find some of the publications that I have done during my career.
 
-*NOTE: This document is automatically generated. I use `pandoc` to convert the publications in `bibtex` format. To see how I did it, take a look at [this guide](bibtex/README.md).*
+*NOTE: This document is automatically generated. I use `pandoc` to convert the publications from `bibtex` format to markdown. To see how I do it, take a look at [this guide](bibtex/README.md).*
 
 More information about my scientific career can be found in my personal page at [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/people/m-gonzalez-fierro) research group from Universidad Carlos III de Madrid and [ThrishLab](http://thrish.org/additional-researchers/miguel-gonzalez-fierro) research group from King's College London (now at Imperial College).
 

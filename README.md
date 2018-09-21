@@ -136,4 +136,9 @@ I also contributed to other blog posts:
 * [Building Deep Neural Networks in the Cloud with Azure GPU VMs, MXNet and Microsoft R Server](https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/)
 
 
+## Patents and IP
+
+\[1\] M. González-Fierro, "ssm library - Image recognition and similarity for the fashion industry: M-008319/2014", 2014.
+
+
 

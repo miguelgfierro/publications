@@ -33,3 +33,8 @@ To generate the citation for the patents:
 
     pandoc -s -S --bibliography gonzalez-fierro_patents.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
     pandoc --from html --to markdown_github publications.html -o publications.md
+
+To generate the citation for the books:
+
+    pandoc -s -S --bibliography gonzalez-fierro_books.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
+    pandoc --from html --to markdown_github publications.html -o publications.md

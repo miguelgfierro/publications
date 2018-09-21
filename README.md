@@ -141,4 +141,9 @@ I also contributed to other blog posts:
 \[1\] M. González-Fierro, "ssm library - Image recognition and similarity for the fashion industry: M-008319/2014", 2014.
 
 
+## Books and book chapters
+
+\[1\] I. Karmanov and M. González-Fierro, "Recurrent Neural Networks", in *Deep Learning with Azure*, M. Salvaris, D. Dean, and W. H. Tok, Eds. Apress, 2018, pp. 161-186.
+
+
 

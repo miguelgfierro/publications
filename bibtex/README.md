@@ -29,4 +29,7 @@ To generate the citation for the thesis:
     pandoc -s -S --bibliography gonzalez-fierro_thesis.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
     pandoc --from html --to markdown_github publications.html -o publications.md
 
+To generate the citation for the patents:
 
+    pandoc -s -S --bibliography gonzalez-fierro_patents.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
+    pandoc --from html --to markdown_github publications.html -o publications.md

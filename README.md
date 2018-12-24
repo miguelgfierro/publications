@@ -15,7 +15,7 @@ More information about my scientific career can be found in my personal page at 
 
 \[3\] M. González-Fierro, D. Dean, M. Salvaris, and I. Karmanov, "Microsoft AI Transformation", *2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018)*, 2018.
 
-\[4\] M. Salvaris, I. Karmanov, and M. González-Fierro, "Distributed Training on Multi-Node Multi-GPU of Deep Neural Networks", *Open Data Science Conference ODSC London 2017*, 2018.
+\[4\] M. Salvaris, I. Karmanov, and M. González-Fierro, "Distributed Training on Multi-Node Multi-GPU of Deep Neural Networks", *Open Data Science Conference ODSC London 2018*, 2018. Available online: <a href="https://www.slideshare.net/secret/2t5zCccvMndEui" class="uri" class="uri">https://www.slideshare.net/secret/2t5zCccvMndEui</a>
 
 \[5\] G. Iordanescu and M. González-Fierro, "Using Transfer Learning as a Powerful Baseline for Deep Learning", *Predictive Analytics World London 2018*, 2018.
 

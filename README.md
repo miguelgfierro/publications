@@ -121,22 +121,6 @@ Here there are some posts that attracted attention:
 * [A Gentle Introduction to Text Classification and Sentiment Analysis](https://miguelgfierro.com/blog/2017/a-gentle-introduction-to-text-classification-and-sentiment-analysis/).
 * [How to Develop a Data Science Project using the Lean Startup Method](https://miguelgfierro.com/blog/2016/how-to-develop-a-data-science-project-using-the-lean-startup-method/).
 
-I also contributed to other blog posts:
-
-* [Comparing Deep Learning Frameworks: A Rosetta Stone Approach](https://blogs.technet.microsoft.com/machinelearning/2018/03/14/comparing-deep-learning-frameworks-a-rosetta-stone-approach/)
-
-* [Lessons Learned From Benchmarking Fast Machine Learning Algorithms](https://blogs.technet.microsoft.com/machinelearning/2017/07/25/lessons-learned-benchmarking-fast-machine-learning-algorithms/)
-
-* [Quick-Start Guide to the Data Science Bowl Lung Cancer Detection Challenge, Using Deep Learning, Microsoft Cognitive Toolkit and Azure GPU VMs](https://blogs.technet.microsoft.com/machinelearning/2017/02/17/quick-start-guide-to-the-data-science-bowl-lung-cancer-detection-challenge-using-deep-learning-microsoft-cognitive-toolkit-and-azure-gpu-vms/)
-
-* [Cloud-Scale Text Classification with Convolutional Neural Networks on Microsoft Azure](https://blogs.technet.microsoft.com/machinelearning/2017/02/13/cloud-scale-text-classification-with-convolutional-neural-networks-on-microsoft-azure/)
-
-* [Training Deep Neural Networks on ImageNet Using Microsoft R Server and Azure GPU VMs](https://blogs.technet.microsoft.com/machinelearning/2016/11/15/imagenet-deep-neural-network-training-using-microsoft-r-server-and-azure-gpu-vms/)
-
-* [Applying Deep Learning at Cloud Scale, with Microsoft R Server & Azure Data Lake](https://blogs.technet.microsoft.com/machinelearning/2016/10/31/applying-cloud-deep-learning-at-scale-with-microsoft-r-server-azure-data-lake/)
-
-* [Building Deep Neural Networks in the Cloud with Azure GPU VMs, MXNet and Microsoft R Server](https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/)
-
 
 ## Patents and IP
 

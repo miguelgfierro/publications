@@ -120,6 +120,9 @@ Here there are some posts that attracted attention:
 * [A Gentle Introduction to the Basics of Machine Learning](https://miguelgfierro.com/blog/2016/a-gentle-introduction-to-the-basics-of-machine-learning/).
 * [A Gentle Introduction to Text Classification and Sentiment Analysis](https://miguelgfierro.com/blog/2017/a-gentle-introduction-to-text-classification-and-sentiment-analysis/).
 * [How to Develop a Data Science Project using the Lean Startup Method](https://miguelgfierro.com/blog/2016/how-to-develop-a-data-science-project-using-the-lean-startup-method/).
+* [10 Ethical Issues Of Artificial Intelligence And Robotics](https://miguelgfierro.com/blog/2018/10-ethical-issues-of-artificial-intelligence-and-robotics/)
+* [Stock Price Prediction With LSTMs](https://miguelgfierro.com/blog/2018/stock-price-prediction-with-lstms/)
+* [Python Pro Tips: Understanding Explicit Is Better Than Implicit](https://miguelgfierro.com/blog/2018/python-pro-tips-understanding-explicit-is-better-than-implicit/)
 
 
 ## Patents and IP

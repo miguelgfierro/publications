@@ -82,7 +82,7 @@ More information about my scientific career can be found in my personal page at 
 
 \[37\] J. Bueno, A. Martín, M. González-Fierro, L. Moreno, and C. Balaguer, "Distinguishing between Similar Objects based on Geometrical Features in 3D Perception", *Proceedings of Robocity2030 12th Workshop: Robótica Cognitiva*, 2013, pp. 77-92. Available online: <a href="http://miguelgfierro.com/docs/bueno2013distinguishing.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/bueno2013distinguishing.pdf</a>
 
-\[38\] M. González-Fierro, D. Hernández, P. Pierro, and C. Balaguer, "Dynamic Modelling of Humanoid Robots Using Spatial Algebra", *XXXIII Jornadas de Automática*, 2012. Available online: <a href="http://miguelgfierro.com/docs/gonzalezfierro2012dynamic.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalezfierro2012dynamic.pdf</a>
+\[38\] M. González-Fierro, D. Hernández, P. Pierro, and C. Balaguer, "Dynamic Modelling of Humanoid Robots Using Spatial Algebra", *XXXIII Jornadas de Automática*, 2012. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2012dynamic.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2012dynamic.pdf</a>
 
 \[39\] J. G. Víctores, S. Morante, M. González-Fierro, and C. Balaguer, "Augmented Reality and Social Interaction platform through Multirobot Design", *Proceedings of Robocity2030 11th Workshop: Robots Sociales*, 2013, pp. 131-143. Available online: <a href="http://miguelgfierro.com/docs/victores2013augmented.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/victores2013augmented.pdf</a>
 
@@ -94,7 +94,7 @@ More information about my scientific career can be found in my personal page at 
 
 \[43\] J. G. Bueno, M. González-Fierro, L. Moreno, and C. Balaguer, "Facial Gesture Recognition and Postural Interaction using Neural Evolution Algorithm and Active Appearance Models", *Proceedings of Robocity2030 9th Workshop: Robots Colaborativos e Interacción Humano-Robot*, 2011, pp. 145-159. Available online: <a href="http://miguelgfierro.com/docs/bueno2011facial.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/bueno2011facial.pdf</a>
 
-\[44\] M. González-Fierro, A. Jardón, S. Martínez de la Casa, M. F. Stoelen, J. G. Víctores, and C. Balaguer, "Educational Initiatives Related with the CEABOT Contest", *Proceedings of SIMPAR*, 2010, pp. 649-658. Available online: <a href="http://miguelgfierro.com/docs/gonzalezfierro2010educational.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalezfierro2010educational.pdf</a>
+\[44\] M. González-Fierro, A. Jardón, S. Martínez de la Casa, M. F. Stoelen, J. G. Víctores, and C. Balaguer, "Educational Initiatives Related with the CEABOT Contest", *Proceedings of SIMPAR*, 2010, pp. 649-658. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2010educational.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2010educational.pdf</a>
 
 \[45\] A. Peña, D. Hernández, M. González-Fierro, P. Pierro, and C. Balaguer, "Sistema de Visión del Humanoide HOAP-3 para la Detección e Identificación de Objetos Mediante Librerías OpenCV", *Proceedings of Robocity2030 7th Workshop: Vision en Robótica*, 2010. Available online: <a href="http://miguelgfierro.com/docs/pena2010sistema.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/pena2010sistema.pdf</a>
 

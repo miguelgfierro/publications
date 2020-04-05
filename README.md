@@ -140,6 +140,8 @@ More information about my scientific career can be found in my personal page at 
 
 I have my [personal blog](https://miguelgfierro.com) where I write about artificial intelligence, machine learning, technical business and other random stuff that comes to my mind. The blog has been designed to mimic the appearance of a scientific paper. I did it that way to honor my scientific background. The code is open sourced and can be found in [this repo](https://github.com/miguelgfierro/sciblog).
 
+In addition, some of the posts have code for supporting the articles. The code is available in [this repo](https://github.com/miguelgfierro/sciblog_support).
+
 Here there is the list of posts published on my blog and on other blogs:
 
 \[1\] M. Cozowicz and M. González-Fierro, "A Gentle Introduction to Contextual Bandits". 2020. Available online: <a href="https://miguelgfierro.com/blog/2020/a-gentle-introduction-to-contextual-bandits" class="uri" class="uri">https://miguelgfierro.com/blog/2020/a-gentle-introduction-to-contextual-bandits</a>

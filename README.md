@@ -128,19 +128,6 @@ More information about my scientific career can be found in my personal page at 
 
 \[3\] M. González-Fierro, "Execution of Collaborative Tasks on Robonova using FSRs (in Spanish)", *Master’s Thesis*, Universidad Carlos III de Madrid, 2008.
 
-## Blog posts
-
-I have my [personal blog](https://miguelgfierro.com) where I write about artificial intelligence, machine learning, technical business and other random stuff that comes to my mind. The blog has been designed to mimic the appearance of a scientific paper. I did it that way to honor my scientific background. The code is open sourced and can be found in [this repo](https://github.com/miguelgfierro/sciblog).
-
-Here there are some posts that attracted attention:
-
-* [A Gentle Introduction to the Basics of Machine Learning](https://miguelgfierro.com/blog/2016/a-gentle-introduction-to-the-basics-of-machine-learning/).
-* [A Gentle Introduction to Text Classification and Sentiment Analysis](https://miguelgfierro.com/blog/2017/a-gentle-introduction-to-text-classification-and-sentiment-analysis/).
-* [How to Develop a Data Science Project using the Lean Startup Method](https://miguelgfierro.com/blog/2016/how-to-develop-a-data-science-project-using-the-lean-startup-method/).
-* [10 Ethical Issues Of Artificial Intelligence And Robotics](https://miguelgfierro.com/blog/2018/10-ethical-issues-of-artificial-intelligence-and-robotics/)
-* [Stock Price Prediction With LSTMs](https://miguelgfierro.com/blog/2018/stock-price-prediction-with-lstms/)
-* [Python Pro Tips: Understanding Explicit Is Better Than Implicit](https://miguelgfierro.com/blog/2018/python-pro-tips-understanding-explicit-is-better-than-implicit/)
-
 ## Patents and IP
 
 \[1\] M. González-Fierro, "ssm library - Image recognition and similarity for the fashion industry: M-008319/2014", 2014.
@@ -148,3 +135,13 @@ Here there are some posts that attracted attention:
 ## Books and book chapters
 
 \[1\] I. Karmanov and M. González-Fierro, "Recurrent Neural Networks", in *Deep Learning with Azure*, M. Salvaris, D. Dean, and W. H. Tok, Eds. Apress, 2018, pp. 161-186.
+
+## Blog posts
+
+I have my [personal blog](https://miguelgfierro.com) where I write about artificial intelligence, machine learning, technical business and other random stuff that comes to my mind. The blog has been designed to mimic the appearance of a scientific paper. I did it that way to honor my scientific background. The code is open sourced and can be found in [this repo](https://github.com/miguelgfierro/sciblog).
+
+Here there is the list of posts published on my blog and on other blogs:
+
+\[1\] M. Cozowicz and M. González-Fierro, "A Gentle Introduction to Contextual Bandits". 2020. Available online: <a href="https://miguelgfierro.com/blog/2020/a-gentle-introduction-to-contextual-bandits" class="uri" class="uri">https://miguelgfierro.com/blog/2020/a-gentle-introduction-to-contextual-bandits</a>
+
+

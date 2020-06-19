@@ -20,7 +20,7 @@ More information about my scientific career can be found in my personal page at 
 
 \[6\] M. González-Fierro, J. K. Min, C. Pirillo, and A. Umamahesan, "Accelerating recommendation system development with Azure Machine Learning", *Microsoft Ignite Conferece 2019 Florida, Orlando*, 2019.
 
-\[7\] A. Argyriou, M. González-Fierro, J. Lian, T. Wu, X. Xie, and L. Zhang, "Building Production-Ready Recommendation System at Scale", *ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2019 (KDD 2019)*, 2019.
+\[7\] L. Zhang, T. Wu, X. Xie, A. Argyriou, M. Gonz{\'a}lez-Fierro and J. Lian, "Building Production-Ready Recommendation System at Scale", *ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2019 (KDD 2019)*, 2019.
 
 \[8\] T. Wu, M. González-Fierro, L. Zhang, and N. Joglekar, "Train and operationalize recommender systems on Azure", *Machine Learning and Data Science Conference (MLADS) Sprint Redmond 2019*, 2019.
 

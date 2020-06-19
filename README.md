@@ -22,7 +22,7 @@ More information about my scientific career can be found in my personal page at 
 
 \[7\] L. Zhang, T. Wu, X. Xie, A. Argyriou, M. Gonz{\'a}lez-Fierro and J. Lian, "Building Production-Ready Recommendation System at Scale", *ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2019 (KDD 2019)*, 2019.
 
-\[8\] T. Wu, M. González-Fierro, L. Zhang, and N. Joglekar, "Train and operationalize recommender systems on Azure", *Machine Learning and Data Science Conference (MLADS) Sprint Redmond 2019*, 2019.
+\[8\] T. Wu, M. González-Fierro, L. Zhang, and N. Joglekar, "Train and operationalize recommender systems on Azure", *Machine Learning and Data Science Conference (MLADS) Sprint Redmond 2019*, 2019. Available online: <a href="https://www.kdd.org/kdd2019/hands-on-tutorials" class="uri">https://www.kdd.org/kdd2019/hands-on-tutorials</a>
 
 \[9\] M. González-Fierro, "Overcoming Machine Learning Bias through Model Analysis", *Data Leadership Summit Conference*, 2019. Available online: <a href="https://www.slideshare.net/MiguelFierro1/overcoming-machine-learning-bias-through-model-analysis" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/overcoming-machine-learning-bias-through-model-analysis</a>
 

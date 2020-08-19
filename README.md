@@ -148,11 +148,11 @@ In addition, some of the posts have code for supporting the articles. The code i
 
 Here there is the list of posts published on my blog and on other blogs:
 
-\[1\] M. Cozowicz and M. González-Fierro, "A Gentle Introduction to Contextual Bandits". 2020. Available online: <a href="https://miguelgfierro.com/blog/2020/a-gentle-introduction-to-contextual-bandits" class="uri" class="uri">https://miguelgfierro.com/blog/2020/a-gentle-introduction-to-contextual-bandits</a>
+\[1\] F. Wu, J. Yi, Y. Lei, Y. Qiao, L. Zhang, and M. González-Fierro, "A Step-by-Step Guide to the Microsoft News Recommendation Competition". 2020. Available online: <a href="https://towardsdatascience.com/a-step-by-step-guide-to-the-microsoft-news-recommendation-competition-700ab00831a" class="uri" class="uri">https://towardsdatascience.com/a-step-by-step-guide-to-the-microsoft-news-recommendation-competition-700ab00831a</a>
 
 \[2\] D. Estévez, J. Isabel, V. G. Pacheco, J. G. Víctores, and M. González-Fierro, "ASROB 10th Anniversary". 2019. Available online: <a href="https://miguelgfierro.com/blog/2019/asrob-10th-anniversary/" class="uri" class="uri">https://miguelgfierro.com/blog/2019/asrob-10th-anniversary/</a>
 
-\[3\] M. González-Fierro, "Understanding the Sequantial Recommender SLi-Rec". 2019. Available online: <a href="https://miguelgfierro.com/blog/2019/understanding-the-sequential-recommender-sli-rec/" class="uri" class="uri">https://miguelgfierro.com/blog/2019/understanding-the-sequential-recommender-sli-rec/</a>
+\[3\] M. González-Fierro, "Understanding the Sequential Recommender SLi-Rec". 2019. Available online: <a href="https://miguelgfierro.com/blog/2019/understanding-the-sequential-recommender-sli-rec/" class="uri" class="uri">https://miguelgfierro.com/blog/2019/understanding-the-sequential-recommender-sli-rec/</a>
 
 \[4\] M. González-Fierro, "Understanding XLNet and its Implications for NLP". 2019. Available online: <a href="https://miguelgfierro.com/blog/2019/understanding-xlnet-and-its-implications-for-nlp/" class="uri" class="uri">https://miguelgfierro.com/blog/2019/understanding-xlnet-and-its-implications-for-nlp/</a>
 
@@ -263,5 +263,3 @@ Here there is the list of posts published on my blog and on other blogs:
 \[57\] M. González-Fierro, "Samsamia At BBVA OpenTalent Event In Buenos Aires". 2013. Available online: <a href="https://miguelgfierro.com/blog/2013/samsamia-at-bbva-opentalent-event-in-buenos-aires/" class="uri" class="uri">https://miguelgfierro.com/blog/2013/samsamia-at-bbva-opentalent-event-in-buenos-aires/</a>
 
 \[58\] M. González-Fierro, "Demoday Of 2020 For 2020 Startup Madrid". 2013. Available online: <a href="https://miguelgfierro.com/blog/2013/demoday-of-2020-for-2020-startup-madrid/" class="uri" class="uri">https://miguelgfierro.com/blog/2013/demoday-of-2020-for-2020-startup-madrid/</a>
-
-

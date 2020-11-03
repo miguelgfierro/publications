@@ -8,7 +8,7 @@ More information about my scientific career can be found in my personal page at 
 
 ## Conferences
 
-\[1\] L. Zhang, Z. Shen, J. Lian, C. Wu, M. González-Fierro, and A. Argyriou, "In Search for A Cure: Recommendation with Knowledge Graph on CORD-19", *ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2020 (KDD 2020)*, 2020. Available online: <a href="https://www.kdd.org/kdd2020/tutorials/handson-tutorials" class="uri" class="uri">https://www.kdd.org/kdd2020/tutorials/handson-tutorials</a>
+\[1\] L. Zhang, Z. Shen, J. Lian, C. Wu, M. González-Fierro, A. Argyriou and T. Wu, "In Search for A Cure: Recommendation with Knowledge Graph on CORD-19", *ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2020 (KDD 2020)*, 2020. Available online: <a href="https://dl.acm.org/doi/10.1145/3394486.3406711" class="uri" class="uri">https://dl.acm.org/doi/10.1145/3394486.3406711</a>
 
 \[2\] A. Argyriou, M. González-Fierro, and L. Zhang, "Microsoft Recommenders: Best Practices for Production-Ready Recommendation Systems", *WWW 2020: International World Wide Web Conference Taipei*, 2020. Available online: <a href="https://dl.acm.org/doi/abs/10.1145/3366424.3382692" class="uri" class="uri">https://dl.acm.org/doi/abs/10.1145/3366424.3382692</a>
 

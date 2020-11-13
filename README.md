@@ -150,7 +150,7 @@ In addition, some of the posts have code for supporting the articles. The code i
 
 Here there is the list of posts published on my blog and on other blogs:
 
-\[1\] F. Wu, J. Yi, Y. Lei, Y. Qiao, L. Zhang, and M. González-Fierro, "A Step-by-Step Guide to the Microsoft News Recommendation Competition". 2020. Available online: <a href="https://towardsdatascience.com/a-step-by-step-guide-to-the-microsoft-news-recommendation-competition-700ab00831a" class="uri" class="uri">https://towardsdatascience.com/a-step-by-step-guide-to-the-microsoft-news-recommendation-competition-700ab00831a</a>
+\[1\] M. González-Fierro, "10 Reasons Why AI Has Developed Faster Than Robotics". 2020. Available online: <a href="https://miguelgfierro.com/blog/2020/10-reasons-why-ai-has-developed-faster-than-robotics/" class="uri" class="uri">https://miguelgfierro.com/blog/2020/10-reasons-why-ai-has-developed-faster-than-robotics/</a>
 
 \[2\] M. Cozowicz and M. González-Fierro, "A Gentle Introduction to Contextual Bandits". 2020. Available online: <a href="https://miguelgfierro.com/blog/2020/a-gentle-introduction-to-contextual-bandits" class="uri" class="uri">https://miguelgfierro.com/blog/2020/a-gentle-introduction-to-contextual-bandits</a>
 

@@ -112,7 +112,7 @@ More information about my scientific career can be found in my personal page at 
 
 \[52\] A. P. Mateo, M. González-Fierro, D. Hernández, P. Pierro, and C. Balaguer, "Robust Real Time Stabilization: Estabilización de la Imagen con Aplicación en el Robot Humanoide HOAP-3", *Proceedings of Robocity2030 7th Workshop: Vision en Robótica*, 2010. Available online: <a href="http://miguelgfierro.com/docs/mateo2010robust.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/mateo2010robust.pdf</a>
 
-\[53\] M. González-Fierro, P. Pierro, A. Jardón, D. Herrero, and C. Balaguer, "Realización de Tareas Colaborativas entre Robots Humanoides. Experimentación con Dos Robots Robonova", *Proceedings of Robocity2030 5th Workshop: Cooperación en Robótica*, 2009. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2009realizacion" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2009realizacion</a>
+\[53\] M. González-Fierro, P. Pierro, A. Jardón, D. Herrero, and C. Balaguer, "Realización de Tareas Colaborativas entre Robots Humanoides. Experimentación con Dos Robots Robonova", *Proceedings of Robocity2030 5th Workshop: Cooperación en Robótica*, 2009. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2009realizacion.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2009realizacion.pdf</a>
 
 \[54\] P. Pierro, D. Hernández, M. González-Fierro, L. Blasi, A. Milani, and C. Balaguer, "A Human-Humanoid Interface for Collaborative Tasks", *Proceedings on the Second Workshop for Young Researchers on Human-Friendly Robotics*, 2009. Available online: <a href="http://miguelgfierro.com/docs/pierro2009human.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/pierro2009human.pdf</a>
 

@@ -43,3 +43,8 @@ To generate the citation for the blog posts:
 
     pandoc -s -S --bibliography gonzalez-fierro_posts.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
     pandoc --from html --to markdown_github publications.html -o publications.md
+
+To generate the citation for the interviews:
+
+    pandoc -s -S --bibliography gonzalez-fierro_interviews.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
+    pandoc --from html --to markdown_github publications.html -o publications.md

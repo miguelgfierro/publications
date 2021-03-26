@@ -281,3 +281,12 @@ Here there is the list of posts published on my blog and on other blogs:
 \[62\] M. González-Fierro, "Samsamia At BBVA OpenTalent Event In Buenos Aires". 2013. Available online: <a href="https://miguelgfierro.com/blog/2013/samsamia-at-bbva-opentalent-event-in-buenos-aires/" class="uri" class="uri">https://miguelgfierro.com/blog/2013/samsamia-at-bbva-opentalent-event-in-buenos-aires/</a>
 
 \[63\] M. González-Fierro, "Demoday Of 2020 For 2020 Startup Madrid". 2013. Available online: <a href="https://miguelgfierro.com/blog/2013/demoday-of-2020-for-2020-startup-madrid/" class="uri" class="uri">https://miguelgfierro.com/blog/2013/demoday-of-2020-for-2020-startup-madrid/</a>
+
+
+## Interviews
+
+\[1\] A. M. Aditya, "Interview with Miguel González-Fierro, Sr. Data Scientist Lead, Microsoft". 2021. Available online: <a href="https://www.aitimejournal.com/@a.m.aditya/interview-with-miguel-gonzalez-fierro-sr-data-scientist-lead-microsoft" class="uri" class="uri">https://www.aitimejournal.com/@a.m.aditya/interview-with-miguel-gonzalez-fierro-sr-data-scientist-lead-microsoft</a>
+
+\[2\] T. Scarfe, "Miguel Fierro - Recommendation Systems". 2019. Available online: <a href="https://www.youtube.com/watch?v=arcelVdJnck" class="uri" class="uri">https://www.youtube.com/watch?v=arcelVdJnck</a>
+
+\[3\] Madrid+d, "We have to fight to show that a scientist can change the world (in Spanish)". 2014. Available online: <a href="http://www.preproduccion.madrimasd.org/notiweb/entrevistas/hay-que-luchar-demostrar-que-un-cientifico-puede-cambiar-mundo" class="uri" class="uri">http://www.preproduccion.madrimasd.org/notiweb/entrevistas/hay-que-luchar-demostrar-que-un-cientifico-puede-cambiar-mundo</a>

@@ -132,7 +132,7 @@ More information about my scientific career can be found in my personal page at 
 
 \[5\] C. A. Monje, P. Pierro, T. Ramos, M. González-Fierro, and C. Balaguer, "Modeling and Simulation of the Humanoid Robot HOAP-3 in the OpenHRP3 Platform", *Cybernetics and Systems*, vol. 44, n.º 8, pp. 663-680, 2013. Available online: <a href="http://dx.doi.org/10.1080/01969722.2013.832095" class="uri" class="uri">http://dx.doi.org/10.1080/01969722.2013.832095</a>
 
-## Thesis
+## Theses
 
 \[1\] M. González-Fierro, "Humanoid Robot Control of Complex Postural Tasks Based on Learning From Demonstrations", *Ph.D. Thesis*, Universidad Carlos III de Madrid, 2014. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2014thesis.pdf</a>
 

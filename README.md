@@ -1,5 +1,5 @@
 [![Twitter](https://img.shields.io/twitter/follow/miguelgfierro?style=social)](https://twitter.com/intent/follow?screen_name=miguelgfierro)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/miguelgfierro/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Follow%20Miguel-blue?logo=linkedin)](https://www.linkedin.com/in/miguelgfierro/)
 
 # Publications
 

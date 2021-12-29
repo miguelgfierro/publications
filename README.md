@@ -1,3 +1,6 @@
+[![Twitter](https://img.shields.io/twitter/follow/miguelgfierro?style=social)](https://twitter.com/intent/follow?screen_name=miguelgfierro)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/miguelgfierro/)
+
 # Publications
 
 In this repo, you will find some of the publications that I have done during my career.

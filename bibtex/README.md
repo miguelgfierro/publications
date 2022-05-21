@@ -16,35 +16,49 @@ Finally, you need a csl file. In [this repo](https://github.com/citation-style-l
 
 To generate the markdown of the citations I use the template `citation_template.md` and a csl file. To generate the citation for the conferences:
 
-    pandoc -s -S --bibliography gonzalez-fierro_conferences.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
-    pandoc --from html --to markdown_github publications.html -o publications.md
+```bash
+pandoc -s -S --bibliography gonzalez-fierro_conferences.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
+pandoc --from html --to markdown_github publications.html -o publications.md
+```
 
 To generate the citation for the journals:
 
-    pandoc -s -S --bibliography gonzalez-fierro_journals.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
-    pandoc --from html --to markdown_github publications.html -o publications.md
+```bash
+pandoc -s -S --bibliography gonzalez-fierro_journals.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
+pandoc --from html --to markdown_github publications.html -o publications.md
+```
 
 To generate the citation for the thesis:
 
-    pandoc -s -S --bibliography gonzalez-fierro_thesis.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
-    pandoc --from html --to markdown_github publications.html -o publications.md
+```bash
+pandoc -s -S --bibliography gonzalez-fierro_thesis.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
+pandoc --from html --to markdown_github publications.html -o publications.md
+```
 
 To generate the citation for the patents:
 
-    pandoc -s -S --bibliography gonzalez-fierro_patents.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
-    pandoc --from html --to markdown_github publications.html -o publications.md
+```bash
+pandoc -s -S --bibliography gonzalez-fierro_patents.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
+pandoc --from html --to markdown_github publications.html -o publications.md
+```
 
 To generate the citation for the books:
 
-    pandoc -s -S --bibliography gonzalez-fierro_books.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
-    pandoc --from html --to markdown_github publications.html -o publications.md
+```bash
+pandoc -s -S --bibliography gonzalez-fierro_books.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
+pandoc --from html --to markdown_github publications.html -o publications.md
+```
 
 To generate the citation for the blog posts:
 
-    pandoc -s -S --bibliography gonzalez-fierro_posts.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
-    pandoc --from html --to markdown_github publications.html -o publications.md
+```bash
+pandoc -s -S --bibliography gonzalez-fierro_posts.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
+pandoc --from html --to markdown_github publications.html -o publications.md
+```
 
 To generate the citation for the interviews:
 
-    pandoc -s -S --bibliography gonzalez-fierro_interviews.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
-    pandoc --from html --to markdown_github publications.html -o publications.md
+```bash
+pandoc -s -S --bibliography gonzalez-fierro_interviews.bib --filter pandoc-citeproc citation_template.md --csl ieee-with-url-mod.csl -o publications.html
+pandoc --from html --to markdown_github publications.html -o publications.md
+```

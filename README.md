@@ -308,10 +308,12 @@ Here there is the list of posts published on my blog and on other blogs:
 
 ## Interviews
 
-\[1\] S. Nouri, "AI Career Interview Series \#7: Miguel Fierro". 2021. Available online: <a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6851333494367502336/" class="uri" class="uri">https://www.linkedin.com/video/event/urn:li:ugcPost:6851333494367502336/</a>
+\[1\] J. Baum, "All About Human Series with Miguel González-Fierro". 2022. Available online: <a href="https://www.aitimejournal.com/all-about-human-series" class="uri" class="uri">https://www.aitimejournal.com/all-about-human-series</a>
 
-\[2\] A. M. Aditya, "Interview with Miguel González-Fierro, Sr. Data Scientist Lead, Microsoft". 2021. Available online: <a href="https://www.aitimejournal.com/@a.m.aditya/interview-with-miguel-gonzalez-fierro-sr-data-scientist-lead-microsoft" class="uri" class="uri">https://www.aitimejournal.com/@a.m.aditya/interview-with-miguel-gonzalez-fierro-sr-data-scientist-lead-microsoft</a>
+\[2\] S. Nouri, "AI Career Interview Series \#7: Miguel Fierro". 2021. Available online: <a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6851333494367502336/" class="uri" class="uri">https://www.linkedin.com/video/event/urn:li:ugcPost:6851333494367502336/</a>
 
-\[3\] T. Scarfe, "Miguel Fierro - Recommendation Systems". 2019. Available online: <a href="https://www.youtube.com/watch?v=arcelVdJnck" class="uri" class="uri">https://www.youtube.com/watch?v=arcelVdJnck</a>
+\[3\] A. M. Aditya, "Interview with Miguel González-Fierro, Sr. Data Scientist Lead, Microsoft". 2021. Available online: <a href="https://www.aitimejournal.com/@a.m.aditya/interview-with-miguel-gonzalez-fierro-sr-data-scientist-lead-microsoft" class="uri" class="uri">https://www.aitimejournal.com/@a.m.aditya/interview-with-miguel-gonzalez-fierro-sr-data-scientist-lead-microsoft</a>
 
-\[4\] Madrid+d, "We have to fight to show that a scientist can change the world (in Spanish)". 2014. Available online: <a href="http://www.preproduccion.madrimasd.org/notiweb/entrevistas/hay-que-luchar-demostrar-que-un-cientifico-puede-cambiar-mundo" class="uri" class="uri">http://www.preproduccion.madrimasd.org/notiweb/entrevistas/hay-que-luchar-demostrar-que-un-cientifico-puede-cambiar-mundo</a>
+\[4\] T. Scarfe, "Miguel Fierro - Recommendation Systems". 2019. Available online: <a href="https://www.youtube.com/watch?v=arcelVdJnck" class="uri" class="uri">https://www.youtube.com/watch?v=arcelVdJnck</a>
+
+\[5\] Madrid+d, "We have to fight to show that a scientist can change the world (in Spanish)". 2014. Available online: <a href="http://www.preproduccion.madrimasd.org/notiweb/entrevistas/hay-que-luchar-demostrar-que-un-cientifico-puede-cambiar-mundo" class="uri" class="uri">http://www.preproduccion.madrimasd.org/notiweb/entrevistas/hay-que-luchar-demostrar-que-un-cientifico-puede-cambiar-mundo</a>

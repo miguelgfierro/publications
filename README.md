@@ -12,129 +12,132 @@ More information about my scientific career can be found in my personal page at 
 
 ## Conferences
 
-\[1\] P. V. Joshi and M. González-Fierro, "Implementing a Efficient Testing Pipelines for GitHub Repositories with Azure Machine Learning", *Microsoft AI and ML Community Call, Redmond, US*, 2022.
+\[1\] F. Zamanian, S. Zhao, P. V. Joshi, D. Anand, M. González-Fierro, S. Antharam, J. Kucera, and L. McGlinn, "How AI can help billions of PlayFab users and game developers to know and retain their players", *Machine Learning and Data Science Conference (MLADS) Fall Redmond*, 2022.
 
-\[2\] P. V. Joshi, A. Argyriou, and M. González-Fierro, "Implementing a Parallel MLOps Test Pipeline for Open Source Development", *MLOps World: Machine Learning in Production*, 2022.
+\[2\] M. González-Fierro, "Switching Your Career to Data Science", *Machine Learning and Data Science Conference (MLADS) Fall Redmond*, 2022.
 
-\[3\] M. González-Fierro, "Becoming a T-shaped Data Scientist in Recommendation Systems", *Universidad de Navarra*, 2022.
+\[3\] P. V. Joshi, A. Argyriou, and M. González-Fierro, "Implementing a Parallel MLOps Test Pipeline for Open Source Development", *MLOps World: Machine Learning in Production*, 2022.
 
-\[4\] M. González-Fierro, "How to Create Recommendation Systems with the Help of the Recommenders Open-source Repository", *Deeplearning.ai Meetup Amsterdam*, 2022. Available online: <a href="https://www.eventbrite.com/e/pie-ai-amsterdam-building-recommenders-open-source-repository-tickets-332757866737" class="uri" class="uri">https://www.eventbrite.com/e/pie-ai-amsterdam-building-recommenders-open-source-repository-tickets-332757866737</a>
+\[4\] M. González-Fierro, "Becoming a T-shaped Data Scientist in Recommendation Systems", *Universidad de Navarra*, 2022.
 
-\[5\] M. González-Fierro, "Transitioning to a Data Science Career", *AI & ML Community Call, Microsoft UK*, 2022.
+\[5\] M. González-Fierro, "How to Create Recommendation Systems with the Help of the Recommenders Open-source Repository", *Deeplearning.ai Meetup Amsterdam*, 2022. Available online: <a href="https://www.eventbrite.com/e/pie-ai-amsterdam-building-recommenders-open-source-repository-tickets-332757866737" class="uri" class="uri">https://www.eventbrite.com/e/pie-ai-amsterdam-building-recommenders-open-source-repository-tickets-332757866737</a>
 
-\[6\] M. González-Fierro, "Overcoming the challenges to make Artificial Intelligence omnipresent", *Summer School CEA (Spanish Commission of Automation)*, 2021.
+\[6\] M. González-Fierro, "Transitioning to a Data Science Career", *AI & ML Community Call, Microsoft UK*, 2022.
 
-\[7\] M. González-Fierro, "Current Challenges in Artificial Intelligence: Artificial Intelligence in the Industry (in Spanish)", *IEEE Spain & CEA (Spanish Commission of Automation)*, 2021.
+\[7\] M. González-Fierro, "Overcoming the challenges to make Artificial Intelligence omnipresent", *Summer School CEA (Spanish Commission of Automation)*, 2021.
 
-\[8\] M. González-Fierro, "The challenges of artificial intelligence in today’s society (in Spanish)", *Universidad Libre de Infantes, Santo Tomás de Villanueva*, 2021. Available online: <a href="https://www.slideshare.net/MiguelFierro1/los-retos-de-la-inteligencia-artificial-en-la-sociedad-actual" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/los-retos-de-la-inteligencia-artificial-en-la-sociedad-actual</a>
+\[8\] M. González-Fierro, "Current Challenges in Artificial Intelligence: Artificial Intelligence in the Industry (in Spanish)", *IEEE Spain & CEA (Spanish Commission of Automation)*, 2021.
 
-\[9\] S. Bleik, M. González-Fierro, H. Lu, D. Deng, Y. Chen, H. Spetalnick, T. Wu, and S. Chikkerur, "A Hitchhikers guide to using Transformers for multiple scenarios and languages", *AACL-IJCNLP 2020: The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing*, 2020. Available online: <a href="http://aacl2020.org/program/tutorials/#t5-a-hitchhikers-guide-to-using-transformers-for-multiple-scenarios-and-languages" class="uri" class="uri">http://aacl2020.org/program/tutorials/#t5-a-hitchhikers-guide-to-using-transformers-for-multiple-scenarios-and-languages</a>
+\[9\] M. González-Fierro, "The challenges of artificial intelligence in today’s society (in Spanish)", *Universidad Libre de Infantes, Santo Tomás de Villanueva*, 2021. Available online: <a href="https://www.slideshare.net/MiguelFierro1/los-retos-de-la-inteligencia-artificial-en-la-sociedad-actual" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/los-retos-de-la-inteligencia-artificial-en-la-sociedad-actual</a>
 
-\[10\] M. González-Fierro, "Knowledge Graph Recommendation Systems For COVID-19", *Toronto Machine Learning Summit*, 2020. Available online: <a href="https://www2.slideshare.net/MiguelFierro1/knowledge-graph-recommendation-systems-for-covid19" class="uri" class="uri">https://www2.slideshare.net/MiguelFierro1/knowledge-graph-recommendation-systems-for-covid19</a>
+\[10\] S. Bleik, M. González-Fierro, H. Lu, D. Deng, Y. Chen, H. Spetalnick, T. Wu, and S. Chikkerur, "A Hitchhikers guide to using Transformers for multiple scenarios and languages", *AACL-IJCNLP 2020: The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing*, 2020. Available online: <a href="http://aacl2020.org/program/tutorials/#t5-a-hitchhikers-guide-to-using-transformers-for-multiple-scenarios-and-languages" class="uri" class="uri">http://aacl2020.org/program/tutorials/#t5-a-hitchhikers-guide-to-using-transformers-for-multiple-scenarios-and-languages</a>
 
-\[11\] L. Zhang, Z. Shen, J. Lian, C. Wu, M. González-Fierro, A. Argyriou, and T. Wu, "In Search for A Cure: Recommendation with Knowledge Graph on CORD-19", *ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2020 (KDD 2020)*, 2020. Available online: <a href="https://dl.acm.org/doi/10.1145/3394486.3406711" class="uri" class="uri">https://dl.acm.org/doi/10.1145/3394486.3406711</a>
+\[11\] M. González-Fierro, "Knowledge Graph Recommendation Systems For COVID-19", *Toronto Machine Learning Summit*, 2020. Available online: <a href="https://www2.slideshare.net/MiguelFierro1/knowledge-graph-recommendation-systems-for-covid19" class="uri" class="uri">https://www2.slideshare.net/MiguelFierro1/knowledge-graph-recommendation-systems-for-covid19</a>
 
-\[12\] A. Argyriou, M. González-Fierro, and L. Zhang, "Microsoft Recommenders: Best Practices for Production-Ready Recommendation Systems", *WWW 2020: International World Wide Web Conference Taipei*, 2020. Available online: <a href="https://dl.acm.org/doi/abs/10.1145/3366424.3382692" class="uri" class="uri">https://dl.acm.org/doi/abs/10.1145/3366424.3382692</a>
+\[12\] L. Zhang, Z. Shen, J. Lian, C. Wu, M. González-Fierro, A. Argyriou, and T. Wu, "In Search for A Cure: Recommendation with Knowledge Graph on CORD-19", *ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2020 (KDD 2020)*, 2020. Available online: <a href="https://dl.acm.org/doi/10.1145/3394486.3406711" class="uri" class="uri">https://dl.acm.org/doi/10.1145/3394486.3406711</a>
 
-\[13\] M. González-Fierro and A. Argyriou, "Taking Recommendation Systems to The Masses", *Open Data Science Conference ODSC London 2019*, 2019.
+\[13\] A. Argyriou, M. González-Fierro, and L. Zhang, "Microsoft Recommenders: Best Practices for Production-Ready Recommendation Systems", *WWW 2020: International World Wide Web Conference Taipei*, 2020. Available online: <a href="https://dl.acm.org/doi/abs/10.1145/3366424.3382692" class="uri" class="uri">https://dl.acm.org/doi/abs/10.1145/3366424.3382692</a>
 
-\[14\] S. Bleik, Y. Chen, E. Awa, M. González-Fierro, and D. Deng, "Deep Learning for Natural Language Processing: From 0 to 100", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2019*, 2019.
+\[14\] M. González-Fierro and A. Argyriou, "Taking Recommendation Systems to The Masses", *Open Data Science Conference ODSC London 2019*, 2019.
 
-\[15\] L. Shao, H. Lu, A. Eswaran, and M. González-Fierro, "Distributed Training of BERT and XLNET Models for Question Answering Using Azure Machine Learning", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2019*, 2019.
+\[15\] S. Bleik, Y. Chen, E. Awa, M. González-Fierro, and D. Deng, "Deep Learning for Natural Language Processing: From 0 to 100", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2019*, 2019.
 
-\[16\] D. Deng, S. Bleik, E. Awa, J. S. Mathew, and M. González-Fierro, "AI Transformers for State of the Art NLP", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2019*, 2019.
+\[16\] L. Shao, H. Lu, A. Eswaran, and M. González-Fierro, "Distributed Training of BERT and XLNET Models for Question Answering Using Azure Machine Learning", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2019*, 2019.
 
-\[17\] M. González-Fierro, J. K. Min, C. Pirillo, and A. Umamahesan, "Accelerating recommendation system development with Azure Machine Learning", *Microsoft Ignite Conferece 2019 Florida, Orlando*, 2019.
+\[17\] D. Deng, S. Bleik, E. Awa, J. S. Mathew, and M. González-Fierro, "AI Transformers for State of the Art NLP", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2019*, 2019.
 
-\[18\] L. Zhang, T. Wu, X. Xie, A. Argyriou, M. González-Fierro, and J. Lian, "Building Production-Ready Recommendation System at Scale", *ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2019 (KDD 2019)*, 2019. Available online: <a href="https://www.kdd.org/kdd2019/hands-on-tutorials" class="uri" class="uri">https://www.kdd.org/kdd2019/hands-on-tutorials</a>
+\[18\] M. González-Fierro, J. K. Min, C. Pirillo, and A. Umamahesan, "Accelerating recommendation system development with Azure Machine Learning", *Microsoft Ignite Conferece 2019 Florida, Orlando*, 2019.
 
-\[19\] T. Wu, M. González-Fierro, L. Zhang, and N. Joglekar, "Train and operationalize recommender systems on Azure", *Machine Learning and Data Science Conference (MLADS) Sprint Redmond 2019*, 2019.
+\[19\] L. Zhang, T. Wu, X. Xie, A. Argyriou, M. González-Fierro, and J. Lian, "Building Production-Ready Recommendation System at Scale", *ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2019 (KDD 2019)*, 2019. Available online: <a href="https://www.kdd.org/kdd2019/hands-on-tutorials" class="uri" class="uri">https://www.kdd.org/kdd2019/hands-on-tutorials</a>
 
-\[20\] M. González-Fierro, "Overcoming Machine Learning Bias through Model Analysis", *Data Leadership Summit Conference*, 2019. Available online: <a href="https://www.slideshare.net/MiguelFierro1/overcoming-machine-learning-bias-through-model-analysis" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/overcoming-machine-learning-bias-through-model-analysis</a>
+\[20\] T. Wu, M. González-Fierro, L. Zhang, and N. Joglekar, "Train and operationalize recommender systems on Azure", *Machine Learning and Data Science Conference (MLADS) Sprint Redmond 2019*, 2019.
 
-\[21\] L. Zhang, G. Williams, T. Wu, M. González-Fierro, and N. Joglekar, "Building and Evaluating a Production-ready Recommendation System", *Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) Macau China 2019*, 2019.
+\[21\] M. González-Fierro, "Overcoming Machine Learning Bias through Model Analysis", *Data Leadership Summit Conference*, 2019. Available online: <a href="https://www.slideshare.net/MiguelFierro1/overcoming-machine-learning-bias-through-model-analysis" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/overcoming-machine-learning-bias-through-model-analysis</a>
 
-\[22\] T. Wu, M. González-Fierro, L. Zhang, and N. Joglekar, "Best Practices for Recommender Systems", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2018*, 2018.
+\[22\] L. Zhang, G. Williams, T. Wu, M. González-Fierro, and N. Joglekar, "Building and Evaluating a Production-ready Recommendation System", *Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) Macau China 2019*, 2019.
 
-\[23\] N. Joglekar, M. Cozowicz, L. Zhang, A. Argyriou, T. Wu, and M. González-Fierro, "Building and Evaluating a Scalable Recommendation System", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2018*, 2018.
+\[23\] T. Wu, M. González-Fierro, L. Zhang, and N. Joglekar, "Best Practices for Recommender Systems", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2018*, 2018.
 
-\[24\] G. Iordanescu and M. González-Fierro, "Using Transfer Learning as a Powerful Baseline for Deep Learning", *Deep Learning World Berlin 2018*, 2018.
+\[24\] N. Joglekar, M. Cozowicz, L. Zhang, A. Argyriou, T. Wu, and M. González-Fierro, "Building and Evaluating a Scalable Recommendation System", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2018*, 2018.
 
-\[25\] M. González-Fierro, D. Dean, M. Salvaris, and I. Karmanov, "Microsoft AI Transformation", *2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018)*, 2018.
+\[25\] G. Iordanescu and M. González-Fierro, "Using Transfer Learning as a Powerful Baseline for Deep Learning", *Deep Learning World Berlin 2018*, 2018.
 
-\[26\] M. Salvaris, I. Karmanov, and M. González-Fierro, "Distributed Training on Multi-Node Multi-GPU of Deep Neural Networks", *Open Data Science Conference ODSC London 2018*, 2018. Available online: <a href="https://www.slideshare.net/secret/2t5zCccvMndEui" class="uri" class="uri">https://www.slideshare.net/secret/2t5zCccvMndEui</a>
+\[26\] M. González-Fierro, D. Dean, M. Salvaris, and I. Karmanov, "Microsoft AI Transformation", *2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018)*, 2018.
 
-\[27\] G. Iordanescu and M. González-Fierro, "Using Transfer Learning as a Powerful Baseline for Deep Learning", *Predictive Analytics World London 2018*, 2018.
+\[27\] M. Salvaris, I. Karmanov, and M. González-Fierro, "Distributed Training on Multi-Node Multi-GPU of Deep Neural Networks", *Open Data Science Conference ODSC London 2018*, 2018. Available online: <a href="https://www.slideshare.net/secret/2t5zCccvMndEui" class="uri" class="uri">https://www.slideshare.net/secret/2t5zCccvMndEui</a>
 
-\[28\] M. González-Fierro and A. Taylor, "Spark Made Simple with AZTK", *Brisbane UseR! 2018*, 2018.
+\[28\] G. Iordanescu and M. González-Fierro, "Using Transfer Learning as a Powerful Baseline for Deep Learning", *Predictive Analytics World London 2018*, 2018.
 
-\[29\] M. Salvaris, I. Karmanov, and M. González-Fierro, "Training Distributed Deep Learning Models", *Machine Learning and Data Science Conference (MLADS) Spring Redmond 2018*, 2018.
+\[29\] M. González-Fierro and A. Taylor, "Spark Made Simple with AZTK", *Brisbane UseR! 2018*, 2018.
 
-\[30\] M. Salvaris, I. Karmanov, and M. González-Fierro, "Distributed Training of Deep Learning Models", *Strata Data Conference London*, 2018. Available online: <a href="https://www.slideshare.net/MiguelFierro1/distributed-training-of-deep-learning-models" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/distributed-training-of-deep-learning-models</a>
+\[30\] M. Salvaris, I. Karmanov, and M. González-Fierro, "Training Distributed Deep Learning Models", *Machine Learning and Data Science Conference (MLADS) Spring Redmond 2018*, 2018.
 
-\[31\] Y. Xing, M. González-Fierro, P. Xia, and T. Wu, "Transfer Learning and Fine Tuning of Pre-trained DNN Models on Kaggle Airport Passenger Screening Challenge", *The Thirty-First Annual Conference on Neural Information Processing Systems NIPS 2017*, 2017.
+\[31\] M. Salvaris, I. Karmanov, and M. González-Fierro, "Distributed Training of Deep Learning Models", *Strata Data Conference London*, 2018. Available online: <a href="https://www.slideshare.net/MiguelFierro1/distributed-training-of-deep-learning-models" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/distributed-training-of-deep-learning-models</a>
 
-\[32\] M. González-Fierro, "Running Intelligent Applications inside a Database: Deep Learning with Python Stored Procedures in SQL", *Open Data Science Conference ODSC London 2017*, 2017. Available online: <a href="https://www.slideshare.net/MiguelFierro1/running-intelligent-applications-inside-a-database-deep-learning-with-python-stored-procedures-in-sql" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/running-intelligent-applications-inside-a-database-deep-learning-with-python-stored-procedures-in-sql</a>
+\[32\] Y. Xing, M. González-Fierro, P. Xia, and T. Wu, "Transfer Learning and Fine Tuning of Pre-trained DNN Models on Kaggle Airport Passenger Screening Challenge", *The Thirty-First Annual Conference on Neural Information Processing Systems NIPS 2017*, 2017.
 
-\[33\] Y. Xing, M. González-Fierro, P. Xia, and T. Wu, "Transfer Learning and Fine Tuning of Pre-trained DNN Models on Kaggle Airport Passenger Screening Challenge Using Azure Machine Learning Workbench", *Machine Learning and Data Science Conference (MLADS) Redmond 2017*, 2017.
+\[33\] M. González-Fierro, "Running Intelligent Applications inside a Database: Deep Learning with Python Stored Procedures in SQL", *Open Data Science Conference ODSC London 2017*, 2017. Available online: <a href="https://www.slideshare.net/MiguelFierro1/running-intelligent-applications-inside-a-database-deep-learning-with-python-stored-procedures-in-sql" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/running-intelligent-applications-inside-a-database-deep-learning-with-python-stored-procedures-in-sql</a>
 
-\[34\] M. González-Fierro, "Deep Learning for Sales Professionals", *Intelligent Cloud GBB Ready Lisbon*, 2017. Available online: <a href="https://www.slideshare.net/MiguelFierro1/deep-learning-for-sales-professionals" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/deep-learning-for-sales-professionals</a>
+\[34\] Y. Xing, M. González-Fierro, P. Xia, and T. Wu, "Transfer Learning and Fine Tuning of Pre-trained DNN Models on Kaggle Airport Passenger Screening Challenge Using Azure Machine Learning Workbench", *Machine Learning and Data Science Conference (MLADS) Redmond 2017*, 2017.
 
-\[35\] A. Taylor and M. González-Fierro, "Deep Learning for Natural Language Processing in R", *Brussels UseR! 2017*, 2017.
+\[35\] M. González-Fierro, "Deep Learning for Sales Professionals", *Intelligent Cloud GBB Ready Lisbon*, 2017. Available online: <a href="https://www.slideshare.net/MiguelFierro1/deep-learning-for-sales-professionals" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/deep-learning-for-sales-professionals</a>
 
-\[36\] M. González-Fierro, "Mastering Computer Vision Problems with State-of-the-art Deep Learning", *Strata Data Conference London*, 2017. Available online: <a href="https://www.slideshare.net/MiguelFierro1/mastering-computer-vision-problems-with-stateoftheart-deep-learning" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/mastering-computer-vision-problems-with-stateoftheart-deep-learning</a>
+\[36\] A. Taylor and M. González-Fierro, "Deep Learning for Natural Language Processing in R", *Brussels UseR! 2017*, 2017.
 
-\[37\] M. Salvaris and M. González-Fierro, "Speeding up Machine Learning Applications with the LightGBM Library", *Strata Data Conference London*, 2017. Available online: <a href="https://www.slideshare.net/MiguelFierro1/speeding-up-machinelearning-applications-with-the-lightgbm-library" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/speeding-up-machinelearning-applications-with-the-lightgbm-library</a>
+\[37\] M. González-Fierro, "Mastering Computer Vision Problems with State-of-the-art Deep Learning", *Strata Data Conference London*, 2017. Available online: <a href="https://www.slideshare.net/MiguelFierro1/mastering-computer-vision-problems-with-stateoftheart-deep-learning" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/mastering-computer-vision-problems-with-stateoftheart-deep-learning</a>
 
-\[38\] M. González-Fierro, "Deep Learning for Lung Cancer Detection", *AI Immersion Workshop. Microsoft Build Conference 2017*, 2017. Available online: <a href="https://www.slideshare.net/MiguelFierro1/deep-learning-for-lung-cancer-detection" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/deep-learning-for-lung-cancer-detection</a>
+\[38\] M. Salvaris and M. González-Fierro, "Speeding up Machine Learning Applications with the LightGBM Library", *Strata Data Conference London*, 2017. Available online: <a href="https://www.slideshare.net/MiguelFierro1/speeding-up-machinelearning-applications-with-the-lightgbm-library" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/speeding-up-machinelearning-applications-with-the-lightgbm-library</a>
 
-\[39\] M. González-Fierro, Y. Xing, and T. Wu, "Getting Started on a Lung Cancer Detection Competition in One Hour Using Cognitive Toolkit and DSVM", *The Data Platform Show*, 2017.
+\[39\] M. González-Fierro, "Deep Learning for Lung Cancer Detection", *AI Immersion Workshop. Microsoft Build Conference 2017*, 2017. Available online: <a href="https://www.slideshare.net/MiguelFierro1/deep-learning-for-lung-cancer-detection" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/deep-learning-for-lung-cancer-detection</a>
 
-\[40\] M. González-Fierro and D. Dean, "Democratizing Intelligence in the World of Predictive, Cognitive and Advanced Analytics", *Data 360 - A Virtual Summit on Data. Data Digital Event Bangalore*, 2016.
+\[40\] M. González-Fierro, Y. Xing, and T. Wu, "Getting Started on a Lung Cancer Detection Competition in One Hour Using Cognitive Toolkit and DSVM", *The Data Platform Show*, 2017.
 
-\[41\] M. González-Fierro, M. Kaznady, and A. Argyriou, "Implementing Large Scale Image Classification with Deep Learning on the Azure Cloud, Microsoft R Server and Spark", *Machine Learning and Data Science Conference (MLADS) Redmond 2016*, 2016.
+\[41\] M. González-Fierro and D. Dean, "Democratizing Intelligence in the World of Predictive, Cognitive and Advanced Analytics", *Data 360 - A Virtual Summit on Data. Data Digital Event Bangalore*, 2016.
 
-\[42\] T. Delteil and M. González-Fierro, "Deep Learning for Natural Language Processing", *Open Data Science Conference ODSC London 2016*, 2016. Available online: <a href="https://www.slideshare.net/MiguelFierro1/deep-learning-for-nlp-67182819" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/deep-learning-for-nlp-67182819</a>
+\[42\] M. González-Fierro, M. Kaznady, and A. Argyriou, "Implementing Large Scale Image Classification with Deep Learning on the Azure Cloud, Microsoft R Server and Spark", *Machine Learning and Data Science Conference (MLADS) Redmond 2016*, 2016.
 
-\[43\] M. González-Fierro, "Leveraging Deep Learning for Applications", *Machine Learning and Data Science Conference (MLADS) Bangalore 2016*, 2016.
+\[43\] T. Delteil and M. González-Fierro, "Deep Learning for Natural Language Processing", *Open Data Science Conference ODSC London 2016*, 2016. Available online: <a href="https://www.slideshare.net/MiguelFierro1/deep-learning-for-nlp-67182819" class="uri" class="uri">https://www.slideshare.net/MiguelFierro1/deep-learning-for-nlp-67182819</a>
 
-\[44\] M. González-Fierro, C. A. Monje, and C. Balaguer, "Robust Control of a Reduced Humanoid Robot Model using Genetic Algorithms and Fractional Calculus", *Mathematical Methods in Engineering International Conference MME2013*, 2013, pp. 183-194. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2013robust.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2013robust.pdf</a>
+\[44\] M. González-Fierro, "Leveraging Deep Learning for Applications", *Machine Learning and Data Science Conference (MLADS) Bangalore 2016*, 2016.
 
-\[45\] M. González-Fierro, M. A. Maldonado, J. G. Víctores, S. Morante, and C. Balaguer, "Object Tagging for Human-Robot Interaction by Recolorization using Gaussian Mixture Models", *Proceedings of Robocity2030 12th Workshop: Robótica Cognitiva*, 2013, pp. 67-76. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2013object.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2013object.pdf</a>
+\[45\] M. González-Fierro, C. A. Monje, and C. Balaguer, "Robust Control of a Reduced Humanoid Robot Model using Genetic Algorithms and Fractional Calculus", *Mathematical Methods in Engineering International Conference MME2013*, 2013, pp. 183-194. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2013robust.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2013robust.pdf</a>
 
-\[46\] M. González-Fierro, C. Balaguer, N. Swann, and T. Nanayakkara, "A Humanoid Robot Standing Up Through Learning from Demonstration Using a Multimodal Reward Function", *IEEE-RAS International Conference on Humanoid Robots, 2013. Humanoids 2013*, 2013, pp. 74-79. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2013humanoid.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2013humanoid.pdf</a>
+\[46\] M. González-Fierro, M. A. Maldonado, J. G. Víctores, S. Morante, and C. Balaguer, "Object Tagging for Human-Robot Interaction by Recolorization using Gaussian Mixture Models", *Proceedings of Robocity2030 12th Workshop: Robótica Cognitiva*, 2013, pp. 67-76. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2013object.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2013object.pdf</a>
 
-\[47\] M. González-Fierro, C. Monje, V. González, and C. Balaguer, "Evolutionary Fractional Order Control of a Humanoid Robot Modeled as a Triple Inverted Pendulum", *Proceedings of Robocity2030 11th Workshop: Robots Sociales*, 2013, pp. 245-263. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2013evolutionary.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2013evolutionary.pdf</a>
+\[47\] M. González-Fierro, C. Balaguer, N. Swann, and T. Nanayakkara, "A Humanoid Robot Standing Up Through Learning from Demonstration Using a Multimodal Reward Function", *IEEE-RAS International Conference on Humanoid Robots, 2013. Humanoids 2013*, 2013, pp. 74-79. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2013humanoid.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2013humanoid.pdf</a>
 
-\[48\] M. González-Fierro, J. Bueno, C. Balaguer, and L. Moreno, "A Complete 3D Perception and Path Planning Architecture for a Humanoid", *Proceedings of Robocity2030 11th Workshop: Robots Sociales*, 2013, pp. 167-184. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2013complete.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2013complete.pdf</a>
+\[48\] M. González-Fierro, C. Monje, V. González, and C. Balaguer, "Evolutionary Fractional Order Control of a Humanoid Robot Modeled as a Triple Inverted Pendulum", *Proceedings of Robocity2030 11th Workshop: Robots Sociales*, 2013, pp. 245-263. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2013evolutionary.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2013evolutionary.pdf</a>
 
-\[49\] J. Bueno, A. Martín, M. González-Fierro, L. Moreno, and C. Balaguer, "Distinguishing between Similar Objects based on Geometrical Features in 3D Perception", *Proceedings of Robocity2030 12th Workshop: Robótica Cognitiva*, 2013, pp. 77-92. Available online: <a href="http://miguelgfierro.com/docs/bueno2013distinguishing.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/bueno2013distinguishing.pdf</a>
+\[49\] M. González-Fierro, J. Bueno, C. Balaguer, and L. Moreno, "A Complete 3D Perception and Path Planning Architecture for a Humanoid", *Proceedings of Robocity2030 11th Workshop: Robots Sociales*, 2013, pp. 167-184. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2013complete.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2013complete.pdf</a>
 
-\[50\] M. González-Fierro, D. Hernández, P. Pierro, and C. Balaguer, "Dynamic Modelling of Humanoid Robots Using Spatial Algebra", *XXXIII Jornadas de Automática*, 2012. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2012dynamic.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2012dynamic.pdf</a>
+\[50\] J. Bueno, A. Martín, M. González-Fierro, L. Moreno, and C. Balaguer, "Distinguishing between Similar Objects based on Geometrical Features in 3D Perception", *Proceedings of Robocity2030 12th Workshop: Robótica Cognitiva*, 2013, pp. 77-92. Available online: <a href="http://miguelgfierro.com/docs/bueno2013distinguishing.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/bueno2013distinguishing.pdf</a>
 
-\[51\] J. G. Víctores, S. Morante, M. González-Fierro, and C. Balaguer, "Augmented Reality and Social Interaction platform through Multirobot Design", *Proceedings of Robocity2030 11th Workshop: Robots Sociales*, 2013, pp. 131-143. Available online: <a href="http://miguelgfierro.com/docs/victores2013augmented.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/victores2013augmented.pdf</a>
+\[51\] M. González-Fierro, D. Hernández, P. Pierro, and C. Balaguer, "Dynamic Modelling of Humanoid Robots Using Spatial Algebra", *XXXIII Jornadas de Automática*, 2012. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2012dynamic.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2012dynamic.pdf</a>
 
-\[52\] D. Herrero, P. Pierro, M. González-Fierro, D. Hernández, and C. Balaguer, "Perception System for Working with Humanoid Robots in Unstructured Collaborative Scenarios", *Proceedings of the 2012 International IEEE Intelligent Vehicles Symposium. Workshops V Perception in Robotics*, 2012.
+\[52\] J. G. Víctores, S. Morante, M. González-Fierro, and C. Balaguer, "Augmented Reality and Social Interaction platform through Multirobot Design", *Proceedings of Robocity2030 11th Workshop: Robots Sociales*, 2013, pp. 131-143. Available online: <a href="http://miguelgfierro.com/docs/victores2013augmented.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/victores2013augmented.pdf</a>
 
-\[53\] J. G. Bueno, M. González-Fierro, L. Moreno, and C. Balaguer, "Facial Gesture Recognition using Active Appearance Models based on Neural Evolution", *2012 International Conference on Human-Robot Interaction (HRI 2012)*, 2012, pp. 133-134. Available online: <a href="http://doi.acm.org/10.1145/2157689.2157721" class="uri" class="uri">http://doi.acm.org/10.1145/2157689.2157721</a>
+\[53\] D. Herrero, P. Pierro, M. González-Fierro, D. Hernández, and C. Balaguer, "Perception System for Working with Humanoid Robots in Unstructured Collaborative Scenarios", *Proceedings of the 2012 International IEEE Intelligent Vehicles Symposium. Workshops V Perception in Robotics*, 2012.
 
-\[54\] C. A. Monje, P. Pierro, T. Ramos, M. González-Fierro, and C. Balaguer, "Modeling and Simulation of the Humanoid Robot HOAP-3 in the OpenHRP3 Platform", *Proceedings of Robot 2011. Workshop Robots Humanoides*, 2011. Available online: <a href="http://miguelgfierro.com/docs/monje2011modeling.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/monje2011modeling.pdf</a>
+\[54\] J. G. Bueno, M. González-Fierro, L. Moreno, and C. Balaguer, "Facial Gesture Recognition using Active Appearance Models based on Neural Evolution", *2012 International Conference on Human-Robot Interaction (HRI 2012)*, 2012, pp. 133-134. Available online: <a href="http://doi.acm.org/10.1145/2157689.2157721" class="uri" class="uri">http://doi.acm.org/10.1145/2157689.2157721</a>
 
-\[55\] J. G. Bueno, M. González-Fierro, L. Moreno, and C. Balaguer, "Facial Gesture Recognition and Postural Interaction using Neural Evolution Algorithm and Active Appearance Models", *Proceedings of Robocity2030 9th Workshop: Robots Colaborativos e Interacción Humano-Robot*, 2011, pp. 145-159. Available online: <a href="http://miguelgfierro.com/docs/bueno2011facial.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/bueno2011facial.pdf</a>
+\[55\] C. A. Monje, P. Pierro, T. Ramos, M. González-Fierro, and C. Balaguer, "Modeling and Simulation of the Humanoid Robot HOAP-3 in the OpenHRP3 Platform", *Proceedings of Robot 2011. Workshop Robots Humanoides*, 2011. Available online: <a href="http://miguelgfierro.com/docs/monje2011modeling.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/monje2011modeling.pdf</a>
 
-\[56\] M. González-Fierro, A. Jardón, S. Martínez de la Casa, M. F. Stoelen, J. G. Víctores, and C. Balaguer, "Educational Initiatives Related with the CEABOT Contest", *Proceedings of SIMPAR*, 2010, pp. 649-658. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2010educational.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2010educational.pdf</a>
+\[56\] J. G. Bueno, M. González-Fierro, L. Moreno, and C. Balaguer, "Facial Gesture Recognition and Postural Interaction using Neural Evolution Algorithm and Active Appearance Models", *Proceedings of Robocity2030 9th Workshop: Robots Colaborativos e Interacción Humano-Robot*, 2011, pp. 145-159. Available online: <a href="http://miguelgfierro.com/docs/bueno2011facial.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/bueno2011facial.pdf</a>
 
-\[57\] A. Peña, D. Hernández, M. González-Fierro, P. Pierro, and C. Balaguer, "Sistema de Visión del Humanoide HOAP-3 para la Detección e Identificación de Objetos Mediante Librerías OpenCV", *Proceedings of Robocity2030 7th Workshop: Vision en Robótica*, 2010. Available online: <a href="http://miguelgfierro.com/docs/pena2010sistema.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/pena2010sistema.pdf</a>
+\[57\] M. González-Fierro, A. Jardón, S. Martínez de la Casa, M. F. Stoelen, J. G. Víctores, and C. Balaguer, "Educational Initiatives Related with the CEABOT Contest", *Proceedings of SIMPAR*, 2010, pp. 649-658. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2010educational.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2010educational.pdf</a>
 
-\[58\] A. P. Mateo, M. González-Fierro, D. Hernández, P. Pierro, and C. Balaguer, "Robust Real Time Stabilization: Estabilización de la Imagen con Aplicación en el Robot Humanoide HOAP-3", *Proceedings of Robocity2030 7th Workshop: Vision en Robótica*, 2010. Available online: <a href="http://miguelgfierro.com/docs/mateo2010robust.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/mateo2010robust.pdf</a>
+\[58\] A. Peña, D. Hernández, M. González-Fierro, P. Pierro, and C. Balaguer, "Sistema de Visión del Humanoide HOAP-3 para la Detección e Identificación de Objetos Mediante Librerías OpenCV", *Proceedings of Robocity2030 7th Workshop: Vision en Robótica*, 2010. Available online: <a href="http://miguelgfierro.com/docs/pena2010sistema.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/pena2010sistema.pdf</a>
 
-\[59\] M. González-Fierro, P. Pierro, A. Jardón, D. Herrero, and C. Balaguer, "Realización de Tareas Colaborativas entre Robots Humanoides. Experimentación con Dos Robots Robonova", *Proceedings of Robocity2030 5th Workshop: Cooperación en Robótica*, 2009. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2009realizacion.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2009realizacion.pdf</a>
+\[59\] A. P. Mateo, M. González-Fierro, D. Hernández, P. Pierro, and C. Balaguer, "Robust Real Time Stabilization: Estabilización de la Imagen con Aplicación en el Robot Humanoide HOAP-3", *Proceedings of Robocity2030 7th Workshop: Vision en Robótica*, 2010. Available online: <a href="http://miguelgfierro.com/docs/mateo2010robust.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/mateo2010robust.pdf</a>
 
-\[60\] P. Pierro, D. Hernández, M. González-Fierro, L. Blasi, A. Milani, and C. Balaguer, "A Human-Humanoid Interface for Collaborative Tasks", *Proceedings on the Second Workshop for Young Researchers on Human-Friendly Robotics*, 2009. Available online: <a href="http://miguelgfierro.com/docs/pierro2009human.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/pierro2009human.pdf</a>
+\[60\] M. González-Fierro, P. Pierro, A. Jardón, D. Herrero, and C. Balaguer, "Realización de Tareas Colaborativas entre Robots Humanoides. Experimentación con Dos Robots Robonova", *Proceedings of Robocity2030 5th Workshop: Cooperación en Robótica*, 2009. Available online: <a href="http://miguelgfierro.com/docs/gonzalez-fierro2009realizacion.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/gonzalez-fierro2009realizacion.pdf</a>
 
-\[61\] P. Pierro, D. Hernández, M. González-Fierro, L. Blasi, A. Milani, and C. Balaguer, "Humanoid Teleoperation System for Space Environments", *Advanced Robotics, 2009. ICAR 2009. International Conference on*, 2009, pp. 1-6. Available online: <a href="http://miguelgfierro.com/docs/pierro2009humanoid.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/pierro2009humanoid.pdf</a>
+\[61\] P. Pierro, D. Hernández, M. González-Fierro, L. Blasi, A. Milani, and C. Balaguer, "A Human-Humanoid Interface for Collaborative Tasks", *Proceedings on the Second Workshop for Young Researchers on Human-Friendly Robotics*, 2009. Available online: <a href="http://miguelgfierro.com/docs/pierro2009human.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/pierro2009human.pdf</a>
 
-\[62\] P. Pierro, M. González-Fierro, and C. Balaguer, "El Proyecto Europeo ROBOT@CWE: Advanced Robotic Systems in Future Collaborative Working Environments", *II Workshop de Robótica (ROBOT 2009)*, 2009.
+\[62\] P. Pierro, D. Hernández, M. González-Fierro, L. Blasi, A. Milani, and C. Balaguer, "Humanoid Teleoperation System for Space Environments", *Advanced Robotics, 2009. ICAR 2009. International Conference on*, 2009, pp. 1-6. Available online: <a href="http://miguelgfierro.com/docs/pierro2009humanoid.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/pierro2009humanoid.pdf</a>
+
+\[63\] P. Pierro, M. González-Fierro, and C. Balaguer, "El Proyecto Europeo ROBOT@CWE: Advanced Robotic Systems in Future Collaborative Working Environments", *II Workshop de Robótica (ROBOT 2009)*, 2009.
+
 
 ## Scientific Journals
 

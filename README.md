@@ -8,7 +8,17 @@ In this repo, you will find some of the publications that I have done during my 
 
 *NOTE: This document is automatically generated. I use `pandoc` to convert the publications from `bibtex` format to markdown. To see how I do it, take a look at [this guide](bibtex/README.md).*
 
-More information about my scientific career can be found in my personal page at [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/people/m-gonzalez-fierro) research group from Universidad Carlos III de Madrid and [ThrishLab](http://thrish.org/additional-researchers/miguel-gonzalez-fierro) research group from King's College London (now at Imperial College).
+More information about my scientific career can be found on my personal page at [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/people/m-gonzalez-fierro) research group from Universidad Carlos III de Madrid and [ThrishLab](https://www.imperial.ac.uk/morph-lab/) research group from King's College London (now at Imperial College).
+
+## Table of contents
+
+* [Conferences](#conferences)
+* [Scientific Journals](#scientific-journals)
+* [Theses](#theses)
+* [Patents and IP](#patents-and-ip)
+* [Books and book chapters](#books-and-book-chapters)
+* [Blog posts](#blog-posts)
+* [Interviews](#interviews)
 
 ## Conferences
 
@@ -18,7 +28,7 @@ More information about my scientific career can be found in my personal page at 
 
 \[3\] P. V. Joshi, A. Argyriou, and M. González-Fierro, "Implementing a Parallel MLOps Test Pipeline for Open Source Development", *MLOps World: Machine Learning in Production*, 2022.
 
-\[4\] P. V. Joshi and M. González-Fierro, "Implementing a Efficient Testing Pipelines for GitHub Repositories with Azure Machine Learning", *Microsoft AI and ML Community Call, Redmond, US*, 2022.
+\[4\] P. V. Joshi and M. González-Fierro, "Implementing an Efficient Testing Pipelines for GitHub Repositories with Azure Machine Learning", *Microsoft AI and ML Community Call, Redmond, US*, 2022.
 
 \[5\] M. González-Fierro, "Becoming a T-shaped Data Scientist in Recommendation Systems", *Universidad de Navarra*, 2022.
 
@@ -44,11 +54,11 @@ More information about my scientific career can be found in my personal page at 
 
 \[16\] S. Bleik, Y. Chen, E. Awa, M. González-Fierro, and D. Deng, "Deep Learning for Natural Language Processing: From 0 to 100", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2019*, 2019.
 
-\[17\] L. Shao, H. Lu, A. Eswaran, and M. González-Fierro, "Distributed Training of BERT and XLNET Models for Question Answering Using Azure Machine Learning", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2019*, 2019.
+\[17\] L. Shao, H. Lu, A. Eswaran, and M. González-Fierro, "Distributed Training of BERT and XLNet Models for Question Answering Using Azure Machine Learning", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2019*, 2019.
 
 \[18\] D. Deng, S. Bleik, E. Awa, J. S. Mathew, and M. González-Fierro, "AI Transformers for State of the Art NLP", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2019*, 2019.
 
-\[19\] M. González-Fierro, J. K. Min, C. Pirillo, and A. Umamahesan, "Accelerating recommendation system development with Azure Machine Learning", *Microsoft Ignite Conferece 2019 Florida, Orlando*, 2019.
+\[19\] M. González-Fierro, J. K. Min, C. Pirillo, and A. Umamahesan, "Accelerating recommendation system development with Azure Machine Learning", *Microsoft Ignite Conference 2019 Florida, Orlando*, 2019.
 
 \[20\] L. Zhang, T. Wu, X. Xie, A. Argyriou, M. González-Fierro, and J. Lian, "Building Production-Ready Recommendation System at Scale", *ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2019 (KDD 2019)*, 2019. Available online: <a href="https://www.kdd.org/kdd2019/hands-on-tutorials" class="uri" class="uri">https://www.kdd.org/kdd2019/hands-on-tutorials</a>
 
@@ -171,11 +181,11 @@ More information about my scientific career can be found in my personal page at 
 
 ## Blog posts
 
-I have my [personal blog](https://miguelgfierro.com) where I write about artificial intelligence, machine learning, technical business and other random stuff that comes to my mind. The blog has been designed to mimic the appearance of a scientific paper. I did it that way to honor my scientific background. The code is open sourced and can be found in [this repo](https://github.com/miguelgfierro/sciblog).
+I have my [personal blog](https://miguelgfierro.com) where I write about artificial intelligence, machine learning, technical business and other random stuff that comes to my mind. The blog has been designed to mimic the appearance of a scientific paper. I did it that way to honor my scientific background. The code is open-sourced and can be found in [this repo](https://github.com/miguelgfierro/sciblog).
 
 In addition, some of the posts have code for supporting the articles. The code is available in [this repo](https://github.com/miguelgfierro/sciblog_support).
 
-Here there is the list of posts published on my blog and on other blogs:
+Here there is the list of posts published on my blog and other blogs:
 
 \[1\] M. González-Fierro, "My Most Popular LinkedIn Posts Of 2022". 2023. Available online: <a href="https://miguelgfierro.com/blog/2023/my-most-popular-linkedin-posts-of-2022/" class="uri" class="uri">https://miguelgfierro.com/blog/2023/my-most-popular-linkedin-posts-of-2022/</a>
 
@@ -325,18 +335,20 @@ Here there is the list of posts published on my blog and on other blogs:
 
 ## Interviews
 
-\[1\] N. Leiser, "Start With Transformers". 2023. Available online: <a href="https://miguelgfierro.com/blog/2023/start-with-transformers/" class="uri" class="uri">https://miguelgfierro.com/blog/2023/start-with-transformers/</a>
+\[1\] A. N. Reganti, "Machine Learning Mastery For Career Growth At Top-Tech Corporations". 2023. Available online: <a href="https://miguelgfierro.com/blog/2023/machine-learning-mastery-for-career-growth-at-top-tech-corporations/" class="uri" class="uri">https://miguelgfierro.com/blog/2023/machine-learning-mastery-for-career-growth-at-top-tech-corporations/</a>
 
-\[2\] S. Juarez, "Building Recommender Systems". 2022. Available online: <a href="https://miguelgfierro.com/blog/2022/building-recommender-systems/" class="uri" class="uri">https://miguelgfierro.com/blog/2022/building-recommender-systems/</a>
+\[2\] N. Leiser, "Start With Transformers". 2023. Available online: <a href="https://miguelgfierro.com/blog/2023/start-with-transformers/" class="uri" class="uri">https://miguelgfierro.com/blog/2023/start-with-transformers/</a>
 
-\[3\] D. J. Reji, "Recommendation Systems". 2022. Available online: <a href="https://miguelgfierro.com/blog/2022/d4-data-podcast-with-miguel-fierro-recommendation-systems/" class="uri" class="uri">https://miguelgfierro.com/blog/2022/d4-data-podcast-with-miguel-fierro-recommendation-systems/</a>
+\[3\] S. Juarez, "Building Recommender Systems". 2022. Available online: <a href="https://miguelgfierro.com/blog/2022/building-recommender-systems/" class="uri" class="uri">https://miguelgfierro.com/blog/2022/building-recommender-systems/</a>
 
-\[4\] J. Baum, "All About Human Series with Miguel González-Fierro". 2022. Available online: <a href="https://www.aitimejournal.com/all-about-human-series" class="uri" class="uri">https://www.aitimejournal.com/all-about-human-series</a>
+\[4\] D. J. Reji, "Recommendation Systems". 2022. Available online: <a href="https://miguelgfierro.com/blog/2022/d4-data-podcast-with-miguel-fierro-recommendation-systems/" class="uri" class="uri">https://miguelgfierro.com/blog/2022/d4-data-podcast-with-miguel-fierro-recommendation-systems/</a>
 
-\[5\] S. Nouri, "AI Career Interview Series \#7: Miguel Fierro". 2021. Available online: <a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6851333494367502336/" class="uri" class="uri">https://www.linkedin.com/video/event/urn:li:ugcPost:6851333494367502336/</a>
+\[5\] J. Baum, "All About Human Series with Miguel González-Fierro". 2022. Available online: <a href="https://www.aitimejournal.com/all-about-human-series" class="uri" class="uri">https://www.aitimejournal.com/all-about-human-series</a>
 
-\[6\] A. M. Aditya, "Interview with Miguel González-Fierro, Sr. Data Scientist Lead, Microsoft". 2021. Available online: <a href="https://www.aitimejournal.com/@a.m.aditya/interview-with-miguel-gonzalez-fierro-sr-data-scientist-lead-microsoft" class="uri" class="uri">https://www.aitimejournal.com/@a.m.aditya/interview-with-miguel-gonzalez-fierro-sr-data-scientist-lead-microsoft</a>
+\[6\] S. Nouri, "AI Career Interview Series \#7: Miguel Fierro". 2021. Available online: <a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6851333494367502336/" class="uri" class="uri">https://www.linkedin.com/video/event/urn:li:ugcPost:6851333494367502336/</a>
 
-\[7\] T. Scarfe, "Miguel Fierro - Recommendation Systems". 2019. Available online: <a href="https://www.youtube.com/watch?v=arcelVdJnck" class="uri" class="uri">https://www.youtube.com/watch?v=arcelVdJnck</a>
+\[7\] A. M. Aditya, "Interview with Miguel González-Fierro, Sr. Data Scientist Lead, Microsoft". 2021. Available online: <a href="https://www.aitimejournal.com/@a.m.aditya/interview-with-miguel-gonzalez-fierro-sr-data-scientist-lead-microsoft" class="uri" class="uri">https://www.aitimejournal.com/@a.m.aditya/interview-with-miguel-gonzalez-fierro-sr-data-scientist-lead-microsoft</a>
 
-\[8\] Madrid+d, "We have to fight to show that a scientist can change the world (in Spanish)". 2014. Available online: <a href="http://www.preproduccion.madrimasd.org/notiweb/entrevistas/hay-que-luchar-demostrar-que-un-cientifico-puede-cambiar-mundo" class="uri" class="uri">http://www.preproduccion.madrimasd.org/notiweb/entrevistas/hay-que-luchar-demostrar-que-un-cientifico-puede-cambiar-mundo</a>
+\[8\] T. Scarfe, "Miguel Fierro - Recommendation Systems". 2019. Available online: <a href="https://www.youtube.com/watch?v=arcelVdJnck" class="uri" class="uri">https://www.youtube.com/watch?v=arcelVdJnck</a>
+
+\[9\] Madrid+d, "We have to fight to show that a scientist can change the world (in Spanish)". 2014. Available online: <a href="http://www.preproduccion.madrimasd.org/notiweb/entrevistas/hay-que-luchar-demostrar-que-un-cientifico-puede-cambiar-mundo" class="uri" class="uri">http://www.preproduccion.madrimasd.org/notiweb/entrevistas/hay-que-luchar-demostrar-que-un-cientifico-puede-cambiar-mundo</a>

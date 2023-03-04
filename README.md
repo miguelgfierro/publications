@@ -8,7 +8,7 @@ In this repo, you will find some of the publications that I have done during my 
 
 *NOTE: This document is automatically generated. I use `pandoc` to convert the publications from `bibtex` format to markdown. To see how I do it, take a look at [this guide](bibtex/README.md).*
 
-More information about my scientific career can be found in my personal page at [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/people/m-gonzalez-fierro) research group from Universidad Carlos III de Madrid and [ThrishLab](http://thrish.org/additional-researchers/miguel-gonzalez-fierro) research group from King's College London (now at Imperial College).
+More information about my scientific career can be found on my personal page at [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/people/m-gonzalez-fierro) research group from Universidad Carlos III de Madrid and [ThrishLab](http://thrish.org/additional-researchers/miguel-gonzalez-fierro) research group from King's College London (now at Imperial College).
 
 ## Conferences
 
@@ -18,7 +18,7 @@ More information about my scientific career can be found in my personal page at 
 
 \[3\] P. V. Joshi, A. Argyriou, and M. González-Fierro, "Implementing a Parallel MLOps Test Pipeline for Open Source Development", *MLOps World: Machine Learning in Production*, 2022.
 
-\[4\] P. V. Joshi and M. González-Fierro, "Implementing a Efficient Testing Pipelines for GitHub Repositories with Azure Machine Learning", *Microsoft AI and ML Community Call, Redmond, US*, 2022.
+\[4\] P. V. Joshi and M. González-Fierro, "Implementing an Efficient Testing Pipelines for GitHub Repositories with Azure Machine Learning", *Microsoft AI and ML Community Call, Redmond, US*, 2022.
 
 \[5\] M. González-Fierro, "Becoming a T-shaped Data Scientist in Recommendation Systems", *Universidad de Navarra*, 2022.
 
@@ -44,11 +44,11 @@ More information about my scientific career can be found in my personal page at 
 
 \[16\] S. Bleik, Y. Chen, E. Awa, M. González-Fierro, and D. Deng, "Deep Learning for Natural Language Processing: From 0 to 100", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2019*, 2019.
 
-\[17\] L. Shao, H. Lu, A. Eswaran, and M. González-Fierro, "Distributed Training of BERT and XLNET Models for Question Answering Using Azure Machine Learning", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2019*, 2019.
+\[17\] L. Shao, H. Lu, A. Eswaran, and M. González-Fierro, "Distributed Training of BERT and XLNet Models for Question Answering Using Azure Machine Learning", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2019*, 2019.
 
 \[18\] D. Deng, S. Bleik, E. Awa, J. S. Mathew, and M. González-Fierro, "AI Transformers for State of the Art NLP", *Machine Learning and Data Science Conference (MLADS) Fall Redmond 2019*, 2019.
 
-\[19\] M. González-Fierro, J. K. Min, C. Pirillo, and A. Umamahesan, "Accelerating recommendation system development with Azure Machine Learning", *Microsoft Ignite Conferece 2019 Florida, Orlando*, 2019.
+\[19\] M. González-Fierro, J. K. Min, C. Pirillo, and A. Umamahesan, "Accelerating recommendation system development with Azure Machine Learning", *Microsoft Ignite Conference 2019 Florida, Orlando*, 2019.
 
 \[20\] L. Zhang, T. Wu, X. Xie, A. Argyriou, M. González-Fierro, and J. Lian, "Building Production-Ready Recommendation System at Scale", *ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2019 (KDD 2019)*, 2019. Available online: <a href="https://www.kdd.org/kdd2019/hands-on-tutorials" class="uri" class="uri">https://www.kdd.org/kdd2019/hands-on-tutorials</a>
 
@@ -171,11 +171,11 @@ More information about my scientific career can be found in my personal page at 
 
 ## Blog posts
 
-I have my [personal blog](https://miguelgfierro.com) where I write about artificial intelligence, machine learning, technical business and other random stuff that comes to my mind. The blog has been designed to mimic the appearance of a scientific paper. I did it that way to honor my scientific background. The code is open sourced and can be found in [this repo](https://github.com/miguelgfierro/sciblog).
+I have my [personal blog](https://miguelgfierro.com) where I write about artificial intelligence, machine learning, technical business and other random stuff that comes to my mind. The blog has been designed to mimic the appearance of a scientific paper. I did it that way to honor my scientific background. The code is open-sourced and can be found in [this repo](https://github.com/miguelgfierro/sciblog).
 
 In addition, some of the posts have code for supporting the articles. The code is available in [this repo](https://github.com/miguelgfierro/sciblog_support).
 
-Here there is the list of posts published on my blog and on other blogs:
+Here there is the list of posts published on my blog and other blogs:
 
 \[1\] M. González-Fierro, "My Most Popular LinkedIn Posts Of 2022". 2023. Available online: <a href="https://miguelgfierro.com/blog/2023/my-most-popular-linkedin-posts-of-2022/" class="uri" class="uri">https://miguelgfierro.com/blog/2023/my-most-popular-linkedin-posts-of-2022/</a>
 

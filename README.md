@@ -10,6 +10,16 @@ In this repo, you will find some of the publications that I have done during my 
 
 More information about my scientific career can be found on my personal page at [RoboticsLab](http://roboticslab.uc3m.es/roboticslab/people/m-gonzalez-fierro) research group from Universidad Carlos III de Madrid and [ThrishLab](https://www.imperial.ac.uk/morph-lab/) research group from King's College London (now at Imperial College).
 
+## Table of contents
+
+* [Conferences](#conferences)
+* [Scientific Journals](#scientific-journals)
+* [Theses](#theses)
+* [Patents and IP](#patents-and-ip)
+* [Books and book chapters](#books-and-book-chapters)
+* [Blog posts](#blog-posts)
+* [Interviews](#interviews)
+
 ## Conferences
 
 \[1\] F. Zamanian, S. Zhao, P. V. Joshi, D. Anand, M. González-Fierro, S. Antharam, J. Kucera, and L. McGlinn, "How AI can help billions of PlayFab users and game developers to know and retain their players", *Machine Learning and Data Science Conference (MLADS) Fall Redmond*, 2022.

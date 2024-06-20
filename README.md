@@ -353,26 +353,29 @@ Here there is the list of posts published on my blog and other blogs:
 
 ## Interviews
 
-\[1\] L. H. Zafer, "Miguel Fierro - AI is the New Normal". 2023. Available online: <a href="https://podcasts.apple.com/ch/podcast/miguel-fierro-ai-is-the-new-normal/id1613934397?i=1000623771203" class="uri" class="uri">https://podcasts.apple.com/ch/podcast/miguel-fierro-ai-is-the-new-normal/id1613934397?i=1000623771203</a>
 
-\[2\] P. Rolfe, "Faculty Spotlight: Miguel González-Fierro". 2023. Available online: <a href="https://www.ie.edu/school-science-technology/news/faculty-spotlight-miguel-gonzalez-fierro/" class="uri" class="uri">https://www.ie.edu/school-science-technology/news/faculty-spotlight-miguel-gonzalez-fierro/</a>
+\[1\] D. Brinkmann, "From Robotics to Recommender Systems - Miguel Fierro". 2024. Available online: <a href="https://www.youtube.com/watch?v=wEmO00ADppw" class="uri" class="uri">https://www.youtube.com/watch?v=wEmO00ADppw</a>
 
-\[3\] M. Kurovski, "Microsoft Recommenders and LLM-based RecSys with Miguel Fierro". 2023. Available online: <a href="https://www.recsperts.com/episodes/17-microsoft-recommenders-and-llm-based-recsys-with-miguel-fierro" class="uri" class="uri">https://www.recsperts.com/episodes/17-microsoft-recommenders-and-llm-based-recsys-with-miguel-fierro</a>
+\[2\] L. H. Zafer, "Miguel Fierro - AI is the New Normal". 2023. Available online: <a href="https://podcasts.apple.com/ch/podcast/miguel-fierro-ai-is-the-new-normal/id1613934397?i=1000623771203" class="uri" class="uri">https://podcasts.apple.com/ch/podcast/miguel-fierro-ai-is-the-new-normal/id1613934397?i=1000623771203</a>
 
-\[4\] A. N. Reganti, "Machine Learning Mastery For Career Growth At Top-Tech Corporations". 2023. Available online: <a href="https://miguelgfierro.com/blog/2023/machine-learning-mastery-for-career-growth-at-top-tech-corporations/" class="uri" class="uri">https://miguelgfierro.com/blog/2023/machine-learning-mastery-for-career-growth-at-top-tech-corporations/</a>
+\[3\] P. Rolfe, "Faculty Spotlight: Miguel González-Fierro". 2023. Available online: <a href="https://www.ie.edu/school-science-technology/news/faculty-spotlight-miguel-gonzalez-fierro/" class="uri" class="uri">https://www.ie.edu/school-science-technology/news/faculty-spotlight-miguel-gonzalez-fierro/</a>
 
-\[5\] N. Leiser, "Start With Transformers". 2023. Available online: <a href="https://miguelgfierro.com/blog/2023/start-with-transformers/" class="uri" class="uri">https://miguelgfierro.com/blog/2023/start-with-transformers/</a>
+\[4\] M. Kurovski, "Microsoft Recommenders and LLM-based RecSys with Miguel Fierro". 2023. Available online: <a href="https://www.recsperts.com/episodes/17-microsoft-recommenders-and-llm-based-recsys-with-miguel-fierro" class="uri" class="uri">https://www.recsperts.com/episodes/17-microsoft-recommenders-and-llm-based-recsys-with-miguel-fierro</a>
 
-\[6\] S. Juarez, "Building Recommender Systems". 2022. Available online: <a href="https://miguelgfierro.com/blog/2022/building-recommender-systems/" class="uri" class="uri">https://miguelgfierro.com/blog/2022/building-recommender-systems/</a>
+\[5\] A. N. Reganti, "Machine Learning Mastery For Career Growth At Top-Tech Corporations". 2023. Available online: <a href="https://miguelgfierro.com/blog/2023/machine-learning-mastery-for-career-growth-at-top-tech-corporations/" class="uri" class="uri">https://miguelgfierro.com/blog/2023/machine-learning-mastery-for-career-growth-at-top-tech-corporations/</a>
 
-\[7\] D. J. Reji, "Recommendation Systems". 2022. Available online: <a href="https://miguelgfierro.com/blog/2022/d4-data-podcast-with-miguel-fierro-recommendation-systems/" class="uri" class="uri">https://miguelgfierro.com/blog/2022/d4-data-podcast-with-miguel-fierro-recommendation-systems/</a>
+\[6\] N. Leiser, "Start With Transformers". 2023. Available online: <a href="https://miguelgfierro.com/blog/2023/start-with-transformers/" class="uri" class="uri">https://miguelgfierro.com/blog/2023/start-with-transformers/</a>
 
-\[8\] J. Baum, "All About Human Series with Miguel González-Fierro". 2022. Available online: <a href="https://www.aitimejournal.com/all-about-human-series" class="uri" class="uri">https://www.aitimejournal.com/all-about-human-series</a>
+\[7\] S. Juarez, "Building Recommender Systems". 2022. Available online: <a href="https://miguelgfierro.com/blog/2022/building-recommender-systems/" class="uri" class="uri">https://miguelgfierro.com/blog/2022/building-recommender-systems/</a>
 
-\[9\] S. Nouri, "AI Career Interview Series \#7: Miguel Fierro". 2021. Available online: <a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6851333494367502336/" class="uri" class="uri">https://www.linkedin.com/video/event/urn:li:ugcPost:6851333494367502336/</a>
+\[8\] D. J. Reji, "Recommendation Systems". 2022. Available online: <a href="https://miguelgfierro.com/blog/2022/d4-data-podcast-with-miguel-fierro-recommendation-systems/" class="uri" class="uri">https://miguelgfierro.com/blog/2022/d4-data-podcast-with-miguel-fierro-recommendation-systems/</a>
 
-\[10\] A. M. Aditya, "Interview with Miguel González-Fierro, Sr. Data Scientist Lead, Microsoft". 2021. Available online: <a href="https://www.aitimejournal.com/@a.m.aditya/interview-with-miguel-gonzalez-fierro-sr-data-scientist-lead-microsoft" class="uri" class="uri">https://www.aitimejournal.com/@a.m.aditya/interview-with-miguel-gonzalez-fierro-sr-data-scientist-lead-microsoft</a>
+\[9\] J. Baum, "All About Human Series with Miguel González-Fierro". 2022. Available online: <a href="https://www.aitimejournal.com/all-about-human-series" class="uri" class="uri">https://www.aitimejournal.com/all-about-human-series</a>
 
-\[11\] T. Scarfe, "Miguel Fierro - Recommendation Systems". 2019. Available online: <a href="https://www.youtube.com/watch?v=arcelVdJnck" class="uri" class="uri">https://www.youtube.com/watch?v=arcelVdJnck</a>
+\[10\] S. Nouri, "AI Career Interview Series \#7: Miguel Fierro". 2021. Available online: <a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6851333494367502336/" class="uri" class="uri">https://www.linkedin.com/video/event/urn:li:ugcPost:6851333494367502336/</a>
 
-\[12\] Madrid+d, "We have to fight to show that a scientist can change the world (in Spanish)". 2014. Available online: <a href="http://www.preproduccion.madrimasd.org/notiweb/entrevistas/hay-que-luchar-demostrar-que-un-cientifico-puede-cambiar-mundo" class="uri" class="uri">http://www.preproduccion.madrimasd.org/notiweb/entrevistas/hay-que-luchar-demostrar-que-un-cientifico-puede-cambiar-mundo</a>
+\[11\] A. M. Aditya, "Interview with Miguel González-Fierro, Sr. Data Scientist Lead, Microsoft". 2021. Available online: <a href="https://www.aitimejournal.com/@a.m.aditya/interview-with-miguel-gonzalez-fierro-sr-data-scientist-lead-microsoft" class="uri" class="uri">https://www.aitimejournal.com/@a.m.aditya/interview-with-miguel-gonzalez-fierro-sr-data-scientist-lead-microsoft</a>
+
+\[12\] T. Scarfe, "Miguel Fierro - Recommendation Systems". 2019. Available online: <a href="https://www.youtube.com/watch?v=arcelVdJnck" class="uri" class="uri">https://www.youtube.com/watch?v=arcelVdJnck</a>
+
+\[13\] Madrid+d, "We have to fight to show that a scientist can change the world (in Spanish)". 2014. Available online: <a href="http://www.preproduccion.madrimasd.org/notiweb/entrevistas/hay-que-luchar-demostrar-que-un-cientifico-puede-cambiar-mundo" class="uri" class="uri">http://www.preproduccion.madrimasd.org/notiweb/entrevistas/hay-que-luchar-demostrar-que-un-cientifico-puede-cambiar-mundo</a>

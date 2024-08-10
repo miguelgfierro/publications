@@ -170,9 +170,10 @@ More information about my scientific career can be found on my personal page at 
 
 \[3\] M. González-Fierro, C. Balaguer, N. Swann, and T. Nanayakkara, "Full-Body Postural Control of a Humanoid Robot with Both Imitation Learning and Skill Innovation", *International Journal of Humanoid Robotics*, vol. 11, n.º 2, p. 1450012, 2014. Available online: <a href="http://dx.doi.org/10.1142/S0219843614500121" class="uri" class="uri">http://dx.doi.org/10.1142/S0219843614500121</a>
 
-\[4\] J. G. Bueno, M. González-Fierro, L. Moreno, and C. Balaguer, "Facial Emotion Recognition and Adaptative Postural Reaction by a Humanoid based on Neural Evolution", *International Journal of Advanced Computer Science*, vol. 3, n.º 10, pp. 481-493, 2013. Available online: <a href="http://miguelgfierro.com/docs/bueno2013facial.pdf" class="uri" class="uri">http://miguelgfierro.com/docs/bueno2013facial.pdf</a>
+\[4\] J. G. Bueno, M. González-Fierro, L. Moreno, and C. Balaguer, "Facial Emotion Recognition and Adaptative Postural Reaction by a Humanoid based on Neural Evolution", *International Journal of Advanced Computer Science*, vol. 3, n.º 10, pp. 481-493, 2013. Available online: <a href="https://github.com/miguelgfierro/publications/blob/main/docs/bueno2013facial.pdf" class="uri" class="uri">https://github.com/miguelgfierro/publications/blob/main/docs/bueno2013facial.pdf</a>
 
 \[5\] C. A. Monje, P. Pierro, T. Ramos, M. González-Fierro, and C. Balaguer, "Modeling and Simulation of the Humanoid Robot HOAP-3 in the OpenHRP3 Platform", *Cybernetics and Systems*, vol. 44, n.º 8, pp. 663-680, 2013. Available online: <a href="http://dx.doi.org/10.1080/01969722.2013.832095" class="uri" class="uri">http://dx.doi.org/10.1080/01969722.2013.832095</a>
+
 
 ## Theses
 
